@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [pascalinthecloud/helm-mealie-s3-backup](https://github.com/pascalinthecloud/helm-mealie-s3-backup) - A Helm chart for automating Mealie backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) - Simple tool collecting fio results from multiple servers running on docker.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/argocd-ksops-sample](https://github.com/pascalinthecloud/argocd-ksops-sample) - Example setup of argocd for managing secrets in ArgoCD using KSOPS and SOPS with Kustomize.
@@ -24,7 +25,6 @@
 - [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) - 
 - [pascalinthecloud/test-astro-for-docs](https://github.com/pascalinthecloud/test-astro-for-docs) - 
 - [pascalinthecloud/terraform-provider-restapi-test](https://github.com/pascalinthecloud/terraform-provider-restapi-test) - 
-- [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) - 
 
 #### 🔭 Latest releases I've contributed to
 

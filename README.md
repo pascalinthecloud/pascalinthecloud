@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple&#39;s vibrant emojis to your Linux experience (today)
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail&#39;s API over HTTPS. (2 days ago)
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email (2 days ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (6 days ago)
@@ -66,7 +67,6 @@
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (1 week ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (3 weeks ago)
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System (3 weeks ago)
-- [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

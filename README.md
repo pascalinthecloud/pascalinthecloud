@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.2.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.2.0), 3 weeks ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.3.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.3.0), today) - Terraform OVH provider
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 2 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.0](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.0), 2 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/docker-awscli-kubectl-zip](https://github.com/pascalinthecloud/docker-awscli-kubectl-zip) ([v1.0.8](https://github.com/pascalinthecloud/docker-awscli-kubectl-zip/releases/tag/v1.0.8), 2 months ago) - A minimal Docker image with awscli, kubectl, curl, unzip &amp; xxd based on Debian Slim.

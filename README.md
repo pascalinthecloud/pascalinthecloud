@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (2 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (3 days ago)
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests. (2 weeks ago)
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple&#39;s vibrant emojis to your Linux experience (3 weeks ago)
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail&#39;s API over HTTPS. (3 weeks ago)

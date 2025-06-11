@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (today)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (1 month ago)
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes. (3 months ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (3 months ago)
@@ -9,7 +10,6 @@
 - [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) -  (3 months ago)
 - [pascalinthecloud/argocd-ksops-sample](https://github.com/pascalinthecloud/argocd-ksops-sample) - Example setup of argocd for managing secrets in ArgoCD using KSOPS and SOPS with Kustomize. (3 months ago)
 - [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) - Repository for hosting the content of sicherge.cloud on GitHub Pages (3 months ago)
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (4 months ago)
 - [pascalinthecloud/test-astro-for-docs](https://github.com/pascalinthecloud/test-astro-for-docs) -  (4 months ago)
 - [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (4 months ago)
 
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update workflow to use pull_request_target for generating terraf…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/86) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
 - [feat: Add support for password rotation in cloud project user resource](https://github.com/ovh/terraform-provider-ovh/pull/965) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [Feature/support password rotation for cloud project user](https://github.com/ovh/terraform-provider-ovh/pull/963) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [feat: add intiail version of Helm chart for Bookstack S3 backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/pull/1) on [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) (3 months ago)
@@ -45,7 +46,6 @@
 - [feat: set working directory for sane-consumer in Dockerfile](https://github.com/pascalinthecloud/paperless-sane-consumer/pull/10) on [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) (3 months ago)
 - [fix: set permissions for the /app directory in Dockerfile](https://github.com/pascalinthecloud/paperless-sane-consumer/pull/9) on [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) (3 months ago)
 - [fix: set permissions for SANE configuration files in Dockerfile](https://github.com/pascalinthecloud/paperless-sane-consumer/pull/8) on [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) (3 months ago)
-- [fix: update user in Dockerfile and bump image version to v1.1.1](https://github.com/pascalinthecloud/paperless-sane-consumer/pull/7) on [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) (3 months ago)
 
 #### 📓 Gists I wrote
 

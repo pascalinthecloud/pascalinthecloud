@@ -36,6 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: remove unused components and next steps section from index.mdx](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/90) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
+- [fix: update checkout step in Terraform docs workflow for improved bra…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/89) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
+- [feat: add provider configuration guide to documentation](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/88) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
 - [fix: update workflow to use pull_request_target for generating terraf…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/86) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
 - [feat: Add support for password rotation in cloud project user resource](https://github.com/ovh/terraform-provider-ovh/pull/965) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [Feature/support password rotation for cloud project user](https://github.com/ovh/terraform-provider-ovh/pull/963) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
@@ -43,9 +46,6 @@
 - [refactor: add multi stage build to Dockerfile to optimize image size,…](https://github.com/clusterzx/paperless-ai/pull/408) on [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) (3 months ago)
 - [chore: bump chart version to 0.5.0 and update app version to 1.0.8](https://github.com/pascalinthecloud/helm-paperless-s3-backup/pull/9) on [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) (3 months ago)
 - [feature: update used image &amp; bump version to 1.0.8](https://github.com/pascalinthecloud/helm-paperless-s3-backup/pull/8) on [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) (3 months ago)
-- [feat: set working directory for sane-consumer in Dockerfile](https://github.com/pascalinthecloud/paperless-sane-consumer/pull/10) on [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) (3 months ago)
-- [fix: set permissions for the /app directory in Dockerfile](https://github.com/pascalinthecloud/paperless-sane-consumer/pull/9) on [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) (3 months ago)
-- [fix: set permissions for SANE configuration files in Dockerfile](https://github.com/pascalinthecloud/paperless-sane-consumer/pull/8) on [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) (3 months ago)
 
 #### 📓 Gists I wrote
 

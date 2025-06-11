@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak (today)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 week ago)
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests. (3 weeks ago)
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple&#39;s vibrant emojis to your Linux experience (1 month ago)
@@ -66,7 +67,6 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 month ago)
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers (1 month ago)
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (1 month ago)
-- [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
 - [fix: update module source references to use v1.0.0 tag for consistency](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/91) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
 - [refactor: remove unused components and next steps section from index.mdx](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/90) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 day ago)
 - [fix: update checkout step in Terraform docs workflow for improved bra…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/89) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 day ago)
@@ -46,7 +47,6 @@
 - [Feature/support password rotation for cloud project user](https://github.com/ovh/terraform-provider-ovh/pull/963) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [feat: add intiail version of Helm chart for Bookstack S3 backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/pull/1) on [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) (3 months ago)
 - [refactor: add multi stage build to Dockerfile to optimize image size,…](https://github.com/clusterzx/paperless-ai/pull/408) on [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) (3 months ago)
-- [chore: bump chart version to 0.5.0 and update app version to 1.0.8](https://github.com/pascalinthecloud/helm-paperless-s3-backup/pull/9) on [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) (3 months ago)
 
 #### 📓 Gists I wrote
 
@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak (1 day ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 week ago)
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests. (3 weeks ago)
@@ -67,7 +68,6 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 month ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 month ago)
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers (1 month ago)
-- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

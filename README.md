@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 day ago)
-- [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel. (1 day ago)
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (2 days ago)
+- [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel. (2 days ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (1 month ago)
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes. (3 months ago)
 - [pascalinthecloud/docker-awscli-kubectl-zip](https://github.com/pascalinthecloud/docker-awscli-kubectl-zip) - A minimal Docker image with awscli, kubectl, curl, unzip &amp; xxd based on Debian Slim. (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.1](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.1), 1 day ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.1](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.1), 2 days ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.4.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.4.0), 1 week ago) - Terraform OVH provider
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 3 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.0](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.0), 3 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
@@ -37,14 +37,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 day ago)
-- [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 days ago)
-- [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 days ago)
-- [fix: update module source references to use v1.0.0 tag for consistency](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/91) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 days ago)
-- [refactor: remove unused components and next steps section from index.mdx](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/90) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
-- [fix: update checkout step in Terraform docs workflow for improved bra…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/89) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
-- [feat: add provider configuration guide to documentation](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/88) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
-- [fix: update workflow to use pull_request_target for generating terraf…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/86) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
+- [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 days ago)
+- [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 days ago)
+- [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
+- [fix: update module source references to use v1.0.0 tag for consistency](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/91) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
+- [refactor: remove unused components and next steps section from index.mdx](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/90) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 days ago)
+- [fix: update checkout step in Terraform docs workflow for improved bra…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/89) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 days ago)
+- [feat: add provider configuration guide to documentation](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/88) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 days ago)
+- [fix: update workflow to use pull_request_target for generating terraf…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/86) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 days ago)
 - [feat: Add support for password rotation in cloud project user resource](https://github.com/ovh/terraform-provider-ovh/pull/965) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [Feature/support password rotation for cloud project user](https://github.com/ovh/terraform-provider-ovh/pull/963) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 
@@ -58,10 +58,10 @@
 
 #### ⭐ Recent Stars
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (4 days ago)
-- [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak (5 days ago)
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 week ago)
-- [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests. (4 weeks ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (5 days ago)
+- [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak (6 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (2 weeks ago)
+- [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests. (1 month ago)
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple&#39;s vibrant emojis to your Linux experience (1 month ago)
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail&#39;s API over HTTPS. (1 month ago)
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email (1 month ago)

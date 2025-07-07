@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.5.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.5.0), 5 days ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.5.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.5.0), 6 days ago) - Terraform OVH provider
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.1](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.1), 3 weeks ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 3 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.0](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.0), 4 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
@@ -50,7 +50,7 @@
 
 #### 📓 Gists I wrote
 
-- [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (3 months ago)
+- [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (4 months ago)
 - [Google Photos Takeout - restore metadata out of json files](https://gist.github.com/00b330a0c14870c8afac2fa3bbfe8d73) (2 years ago)
 - [bumpme](https://gist.github.com/05998247f972db336d6fc804c3887c3c) (2 years ago)
 - [](https://gist.github.com/50355ebb1b1f76fd8d2ea2eade1f7890) (2 years ago)
@@ -60,7 +60,7 @@
 
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (1 week ago)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 week ago)
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (2 weeks ago)
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider (2 weeks ago)
 - [AlexTech01/Authy-iOS-MiTM](https://github.com/AlexTech01/Authy-iOS-MiTM) - Guide to extract authenticator tokens from the Authy iOS app with mitmproxy (2 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)

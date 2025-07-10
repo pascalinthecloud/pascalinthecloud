@@ -71,11 +71,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Nebu2k](https://github.com/Nebu2k)
 - [Analistarjx](https://github.com/Analistarjx)
 - [nholuongut](https://github.com/nholuongut)
 - [bludnic](https://github.com/bludnic)
 - [ideenlos01](https://github.com/ideenlos01)
-- [Maboxy](https://github.com/Maboxy)
 
 #### 💬 Feedback
 

@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (today)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (2 weeks ago)
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (2 weeks ago)
@@ -67,7 +68,6 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak (1 month ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 month ago)
-- [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

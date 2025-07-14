@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [Matthias84/awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv) - Curated list of free software and hardware to build remote controlled copters and planes (today)
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (today)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (2 weeks ago)
@@ -67,7 +68,6 @@
 - [AlexTech01/Authy-iOS-MiTM](https://github.com/AlexTech01/Authy-iOS-MiTM) - Guide to extract authenticator tokens from the Authy iOS app with mitmproxy (3 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak (1 month ago)
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Implement OIDC user management and authentication flow](https://github.com/eduardolat/pgbackweb/pull/126) on [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) (today)
 - [docs: Add import section to me_identity_group documentation](https://github.com/ovh/terraform-provider-ovh/pull/1024) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (3 weeks ago)
 - [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
@@ -46,7 +47,6 @@
 - [fix: update checkout step in Terraform docs workflow for improved bra…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/89) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [feat: add provider configuration guide to documentation](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/88) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [fix: update workflow to use pull_request_target for generating terraf…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/86) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
-- [feat: Add support for password rotation in cloud project user resource](https://github.com/ovh/terraform-provider-ovh/pull/965) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 
 #### 📓 Gists I wrote
 

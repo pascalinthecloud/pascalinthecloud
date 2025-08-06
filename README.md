@@ -50,7 +50,7 @@
 
 #### 📓 Gists I wrote
 
-- [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (4 months ago)
+- [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (5 months ago)
 - [Google Photos Takeout - restore metadata out of json files](https://gist.github.com/00b330a0c14870c8afac2fa3bbfe8d73) (2 years ago)
 - [bumpme](https://gist.github.com/05998247f972db336d6fc804c3887c3c) (2 years ago)
 - [](https://gist.github.com/50355ebb1b1f76fd8d2ea2eade1f7890) (2 years ago)
@@ -58,14 +58,14 @@
 
 #### ⭐ Recent Stars
 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (today)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (today)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (1 day ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 day ago)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  (1 week ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. (2 weeks ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (2 weeks ago)
 - [Matthias84/awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv) - Curated list of free software and hardware to build remote controlled copters and planes (3 weeks ago)
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (3 weeks ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (4 weeks ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 month ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 month ago)
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (1 month ago)
 

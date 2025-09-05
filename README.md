@@ -50,7 +50,7 @@
 
 #### 📓 Gists I wrote
 
-- [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (5 months ago)
+- [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (6 months ago)
 - [Google Photos Takeout - restore metadata out of json files](https://gist.github.com/00b330a0c14870c8afac2fa3bbfe8d73) (2 years ago)
 - [bumpme](https://gist.github.com/05998247f972db336d6fc804c3887c3c) (3 years ago)
 - [](https://gist.github.com/50355ebb1b1f76fd8d2ea2eade1f7890) (3 years ago)

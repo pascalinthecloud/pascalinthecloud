@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.8.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.8.0), today) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.8.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.8.0), 1 day ago) - Terraform OVH provider
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.1](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.1), 3 months ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 6 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.0](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.0), 6 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
@@ -58,13 +58,13 @@
 
 #### ⭐ Recent Stars
 
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (4 days ago)
-- [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖 (4 days ago)
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. (5 days ago)
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (5 days ago)
+- [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖 (5 days ago)
+- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. (6 days ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources. (3 weeks ago)
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes (3 weeks ago)
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don&#39;t be shy, join here: https://discord.com/invite/NAb6H3UTjK :) (4 weeks ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (4 weeks ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 month ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History) (1 month ago)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (1 month ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 month ago)

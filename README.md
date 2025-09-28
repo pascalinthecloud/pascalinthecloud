@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) -  (today)
 - [pascalinthecloud/personal-network-debugging-image](https://github.com/pascalinthecloud/personal-network-debugging-image) -  (2 months ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (3 months ago)
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (3 months ago)
 - [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel. (3 months ago)
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (3 months ago)
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes. (6 months ago)
 - [pascalinthecloud/docker-awscli-kubectl-zip](https://github.com/pascalinthecloud/docker-awscli-kubectl-zip) - A minimal Docker image with awscli, kubectl, curl, unzip &amp; xxd based on Debian Slim. (6 months ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (6 months ago)
 - [pascalinthecloud/paperless-sane-consumer](https://github.com/pascalinthecloud/paperless-sane-consumer) -  (6 months ago)
 - [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) - Repository for hosting the content of sicherge.cloud on GitHub Pages (7 months ago)
-- [pascalinthecloud/argocd-ksops-sample](https://github.com/pascalinthecloud/argocd-ksops-sample) - Example setup of argocd for managing secrets in ArgoCD using KSOPS and SOPS with Kustomize. (7 months ago)
 
 #### 🌱 My latest projects
 

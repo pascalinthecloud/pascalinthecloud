@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) -  (6 days ago)
+- [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) -  (1 week ago)
 - [pascalinthecloud/personal-network-debugging-image](https://github.com/pascalinthecloud/personal-network-debugging-image) -  (2 months ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (3 months ago)
 - [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel. (3 months ago)
@@ -58,13 +58,13 @@
 
 #### ⭐ Recent Stars
 
-- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (today)
-- [vmware/terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere) - Terraform Provider for VMware vSphere (6 days ago)
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (6 days ago)
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (6 days ago)
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (6 days ago)
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (6 days ago)
-- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces (6 days ago)
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (1 day ago)
+- [vmware/terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere) - Terraform Provider for VMware vSphere (1 week ago)
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (1 week ago)
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 week ago)
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (1 week ago)
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (1 week ago)
+- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces (1 week ago)
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (1 week ago)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (2 weeks ago)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (3 weeks ago)

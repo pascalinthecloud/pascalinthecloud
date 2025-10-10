@@ -41,8 +41,8 @@
 - [docs: Add import section to me_identity_group documentation](https://github.com/ovh/terraform-provider-ovh/pull/1024) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (3 months ago)
 - [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 months ago)
 - [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 months ago)
-- [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 months ago)
-- [fix: update module source references to use v1.0.0 tag for consistency](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/91) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 months ago)
+- [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
+- [fix: update module source references to use v1.0.0 tag for consistency](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/91) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
 - [refactor: remove unused components and next steps section from index.mdx](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/90) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
 - [fix: update checkout step in Terraform docs workflow for improved bra…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/89) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
 - [feat: add provider configuration guide to documentation](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/88) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (2 days ago)
-- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (4 days ago)
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (3 days ago)
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (5 days ago)
 - [vmware/terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere) - Terraform Provider for VMware vSphere (1 week ago)
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (1 week ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 week ago)

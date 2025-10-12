@@ -40,7 +40,7 @@
 - [feat: Implement OIDC user management and authentication flow](https://github.com/eduardolat/pgbackweb/pull/126) on [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) (2 months ago)
 - [docs: Add import section to me_identity_group documentation](https://github.com/ovh/terraform-provider-ovh/pull/1024) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (3 months ago)
 - [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 months ago)
-- [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 months ago)
+- [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
 - [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
 - [fix: update module source references to use v1.0.0 tag for consistency](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/91) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
 - [refactor: remove unused components and next steps section from index.mdx](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/90) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 months ago)
@@ -58,16 +58,16 @@
 
 #### ⭐ Recent Stars
 
-- [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python &#43; iCloud wrapper to access iPhone and Calendar data. (1 day ago)
-- [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) - ☀ Official Command Line Interface to manage your OVHcloud services ☁ (1 day ago)
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 day ago)
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (4 days ago)
-- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (6 days ago)
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (1 day ago)
+- [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python &#43; iCloud wrapper to access iPhone and Calendar data. (2 days ago)
+- [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) - ☀ Official Command Line Interface to manage your OVHcloud services ☁ (2 days ago)
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (2 days ago)
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (5 days ago)
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (1 week ago)
 - [vmware/terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere) - Terraform Provider for VMware vSphere (1 week ago)
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (1 week ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 week ago)
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (1 week ago)
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

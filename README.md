@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (today)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (3 days ago)
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 days ago)
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters. (5 days ago)
@@ -67,7 +68,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 week ago)
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (1 week ago)
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (1 week ago)
-- [vmware/terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere) - Terraform Provider for VMware vSphere (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

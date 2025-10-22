@@ -58,6 +58,8 @@
 
 #### ⭐ Recent Stars
 
+- [ovh/go-ovh](https://github.com/ovh/go-ovh) - Simple go wrapper for the OVH API (today)
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (today)
 - [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3&#39;s performance from any location. (1 day ago)
 - [minio/warp](https://github.com/minio/warp) - S3 benchmarking tool (1 day ago)
 - [rustfs/operator](https://github.com/rustfs/operator) - RustFS k8s operator  (2 days ago)
@@ -66,8 +68,6 @@
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (5 days ago)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (1 week ago)
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (1 week ago)
-- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters. (1 week ago)
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

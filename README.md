@@ -62,7 +62,7 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 day ago)
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone. (1 day ago)
 - [moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist) - A set of curated exercises to help you prepare for the CKS exam (3 days ago)
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://hkuds.github.io/AI-Trader/ (4 days ago)
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://ai4trade.ai (4 days ago)
 - [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service (5 days ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (5 days ago)
 - [jordan-owen/kubeseal-windows-installer](https://github.com/jordan-owen/kubeseal-windows-installer) - A simple PowerShell script that downloads the kubeseal CLI and adds it to the user&#39;s PATH. (6 days ago)

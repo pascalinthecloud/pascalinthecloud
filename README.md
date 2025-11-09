@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more. (today)
 - [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻 (today)
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container. (6 days ago)
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (1 week ago)
@@ -67,7 +68,6 @@
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading Bench: https://hkuds.github.io/AI-Trader/ (1 week ago)
 - [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service (1 week ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
-- [jordan-owen/kubeseal-windows-installer](https://github.com/jordan-owen/kubeseal-windows-installer) - A simple PowerShell script that downloads the kubeseal CLI and adds it to the user&#39;s PATH. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

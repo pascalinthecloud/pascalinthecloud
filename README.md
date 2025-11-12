@@ -59,7 +59,7 @@
 #### ⭐ Recent Stars
 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more. (3 days ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps (3 days ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (3 days ago)
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container. (1 week ago)
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (1 week ago)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 week ago)

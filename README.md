@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of open source. (today)
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (1 day ago)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (3 days ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more. (1 week ago)
@@ -68,7 +69,6 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (2 weeks ago)
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone. (2 weeks ago)
 - [moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist) - A set of curated exercises to help you prepare for the CKS exam (2 weeks ago)
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading Bench: https://ai4trade.ai (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

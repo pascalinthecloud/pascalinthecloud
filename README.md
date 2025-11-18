@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world. (today)
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of open source. (2 days ago)
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (3 days ago)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (5 days ago)
@@ -68,7 +69,6 @@
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements. (2 weeks ago)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (2 weeks ago)
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone. (2 weeks ago)
-- [moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist) - A set of curated exercises to help you prepare for the CKS exam (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

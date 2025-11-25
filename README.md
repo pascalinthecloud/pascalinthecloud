@@ -29,7 +29,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v0.5.0](https://github.com/efemaer/terrawiz/releases/tag/v0.5.0), 1 week ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.9.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.9.0), 2 weeks ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.9.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.9.0), 3 weeks ago) - Terraform OVH provider
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.1](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.1), 5 months ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 8 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.0](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.0), 8 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
@@ -59,12 +59,12 @@
 
 #### ⭐ Recent Stars
 
-- [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! (today)
-- [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB (today)
-- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (today)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 day ago)
-- [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (6 days ago)
-- [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world. (6 days ago)
+- [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! (1 day ago)
+- [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB (1 day ago)
+- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (1 day ago)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (2 days ago)
+- [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (1 week ago)
+- [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world. (1 week ago)
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source. (1 week ago)
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (1 week ago)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (1 week ago)

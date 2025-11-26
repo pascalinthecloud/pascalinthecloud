@@ -59,6 +59,8 @@
 
 #### ⭐ Recent Stars
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (today)
+- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (today)
 - [SasaKaranovic/OpenFanController](https://github.com/SasaKaranovic/OpenFanController) - Open-source open-hardware PC fan controller for everyone! (1 day ago)
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! (2 days ago)
 - [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB (2 days ago)
@@ -67,8 +69,6 @@
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (1 week ago)
 - [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world. (1 week ago)
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source. (1 week ago)
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (1 week ago)
-- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

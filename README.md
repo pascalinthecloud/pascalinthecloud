@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server. (today)
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (5 days ago)
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (5 days ago)
 - [SasaKaranovic/OpenFanController](https://github.com/SasaKaranovic/OpenFanController) - Open-source open-hardware PC fan controller for everyone! (6 days ago)
@@ -68,7 +69,6 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 week ago)
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (1 week ago)
 - [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world. (1 week ago)
-- [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (5 days ago)
+- [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (6 days ago)
 - [Add annotations to argocd](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/25) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (1 month ago)
 - [feat: add module normalization and sorting utilities with unit tests](https://github.com/efemaer/terrawiz/pull/60) on [efemaer/terrawiz](https://github.com/efemaer/terrawiz) (1 month ago)
 - [feat: Implement OIDC user management and authentication flow](https://github.com/eduardolat/pgbackweb/pull/126) on [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) (4 months ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server. (3 days ago)
+- [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server. (4 days ago)
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (1 week ago)
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (1 week ago)
 - [SasaKaranovic/OpenFanController](https://github.com/SasaKaranovic/OpenFanController) - Open-source open-hardware PC fan controller for everyone! (1 week ago)

@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (today)
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 day ago)
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (3 weeks ago)
 - [pascalinthecloud/s3-performance-matrix](https://github.com/pascalinthecloud/s3-performance-matrix) - Automated S3 performance testing suite using MinIO Warp - benchmark object sizes and concurrency levels with visualization. (3 weeks ago)
 - [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.2](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.2), today) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.2](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.2), 1 day ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.10.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.10.0), 1 week ago) - Terraform OVH provider
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v0.5.0](https://github.com/efemaer/terrawiz/releases/tag/v0.5.0), 3 weeks ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 8 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update worker VM ID calculation to include index for uniqueness](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/95) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
+- [fix: update worker VM ID calculation to include index for uniqueness](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/95) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 day ago)
 - [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 week ago)
 - [Add annotations to argocd](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/25) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (1 month ago)
 - [feat: add module normalization and sorting utilities with unit tests](https://github.com/efemaer/terrawiz/pull/60) on [efemaer/terrawiz](https://github.com/efemaer/terrawiz) (1 month ago)
@@ -59,24 +59,24 @@
 
 #### ⭐ Recent Stars
 
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (today)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (today)
-- [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server. (5 days ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 day ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (1 day ago)
+- [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server. (6 days ago)
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (1 week ago)
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (1 week ago)
 - [SasaKaranovic/OpenFanController](https://github.com/SasaKaranovic/OpenFanController) - Open-source open-hardware PC fan controller for everyone! (1 week ago)
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! (1 week ago)
 - [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB (1 week ago)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (1 week ago)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 week ago)
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [ronron22](https://github.com/ronron22)
 - [Nebu2k](https://github.com/Nebu2k)
 - [Analistarjx](https://github.com/Analistarjx)
 - [nholuongut](https://github.com/nholuongut)
 - [bludnic](https://github.com/bludnic)
-- [ideenlos01](https://github.com/ideenlos01)
 
 #### 💬 Feedback
 

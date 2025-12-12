@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player (today)
 - [cloudposse/docs](https://github.com/cloudposse/docs) - Terraform Reference Architecture for AWS, Datadog and GitHub Actions (1 day ago)
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus (1 day ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (6 days ago)
@@ -68,7 +69,6 @@
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (2 weeks ago)
 - [SasaKaranovic/OpenFanController](https://github.com/SasaKaranovic/OpenFanController) - Open-source open-hardware PC fan controller for everyone! (2 weeks ago)
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer! (2 weeks ago)
-- [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

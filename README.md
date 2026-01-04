@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [gtlpanda](https://github.com/gtlpanda)
 - [ronron22](https://github.com/ronron22)
 - [Nebu2k](https://github.com/Nebu2k)
 - [Analistarjx](https://github.com/Analistarjx)
 - [nholuongut](https://github.com/nholuongut)
-- [bludnic](https://github.com/bludnic)
 
 #### 💬 Feedback
 

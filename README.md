@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (today)
 - [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider (4 days ago)
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review (1 week ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 weeks ago)
@@ -68,7 +69,6 @@
 - [fastify/fastify-swagger](https://github.com/fastify/fastify-swagger) - Swagger documentation generator for Fastify (2 weeks ago)
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL (2 weeks ago)
 - [postgis/postgis](https://github.com/postgis/postgis) - PostGIS spatial database extension to PostgreSQL [mirror] (2 weeks ago)
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps &amp; ASPM (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

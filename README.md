@@ -6,11 +6,11 @@
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (3 weeks ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (1 month ago)
-- [pascalinthecloud/s3-performance-matrix](https://github.com/pascalinthecloud/s3-performance-matrix) - Automated S3 performance testing suite using MinIO Warp - benchmark object sizes and concurrency levels with visualization. (1 month ago)
+- [pascalinthecloud/s3-performance-matrix](https://github.com/pascalinthecloud/s3-performance-matrix) - Automated S3 performance testing suite using MinIO Warp - benchmark object sizes and concurrency levels with visualization. (2 months ago)
 - [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (2 months ago)
 - [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) -  (3 months ago)
 - [pascalinthecloud/personal-network-debugging-image](https://github.com/pascalinthecloud/personal-network-debugging-image) -  (5 months ago)
-- [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel. (6 months ago)
+- [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel. (7 months ago)
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes. (10 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.3](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.3), 6 days ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.3](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.3), 1 week ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.10.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.10.0), 1 month ago) - Terraform OVH provider
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v0.5.0](https://github.com/efemaer/terrawiz/releases/tag/v0.5.0), 1 month ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 10 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
@@ -44,7 +44,7 @@
 - [feat: add module normalization and sorting utilities with unit tests](https://github.com/efemaer/terrawiz/pull/60) on [efemaer/terrawiz](https://github.com/efemaer/terrawiz) (2 months ago)
 - [feat: Implement OIDC user management and authentication flow](https://github.com/eduardolat/pgbackweb/pull/126) on [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) (5 months ago)
 - [docs: Add import section to me_identity_group documentation](https://github.com/ovh/terraform-provider-ovh/pull/1024) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (6 months ago)
-- [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 months ago)
+- [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
 - [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
 - [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
 - [fix: update module source references to use v1.0.0 tag for consistency](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/91) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
@@ -59,9 +59,9 @@
 
 #### ⭐ Recent Stars
 
-- [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider (3 days ago)
+- [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider (4 days ago)
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review (1 week ago)
-- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (1 week ago)
+- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 weeks ago)
 - [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Volkswagen Carnet Component for home assistant (2 weeks ago)
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (2 weeks ago)
 - [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server (2 weeks ago)

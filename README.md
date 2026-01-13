@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management. (today)
 - [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (2 days ago)
 - [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (3 weeks ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (3 weeks ago)
@@ -11,10 +12,10 @@
 - [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) -  (3 months ago)
 - [pascalinthecloud/personal-network-debugging-image](https://github.com/pascalinthecloud/personal-network-debugging-image) -  (5 months ago)
 - [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel. (7 months ago)
-- [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes. (10 months ago)
 
 #### 🌱 My latest projects
 
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management.
 - [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to.
 - [pascalinthecloud/s3-performance-matrix](https://github.com/pascalinthecloud/s3-performance-matrix) - Automated S3 performance testing suite using MinIO Warp - benchmark object sizes and concurrency levels with visualization.
 - [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) - 
@@ -24,7 +25,6 @@
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/argocd-ksops-sample](https://github.com/pascalinthecloud/argocd-ksops-sample) - Example setup of argocd for managing secrets in ArgoCD using KSOPS and SOPS with Kustomize.
 - [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) - Repository for hosting the content of sicherge.cloud on GitHub Pages
-- [pascalinthecloud/docker-awscli-kubectl-zip](https://github.com/pascalinthecloud/docker-awscli-kubectl-zip) - A minimal Docker image with awscli, kubectl, curl, unzip &amp; xxd based on Debian Slim.
 
 #### 🔭 Latest releases I've contributed to
 

@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add initial implementation of CloudNative-PG database module with wor…](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/1) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (today)
 - [fix: update helm provider version to 3.1.1 across multiple modules an…](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/26) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (2 days ago)
 - [fix: update worker VM ID calculation to include index for uniqueness](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/95) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
@@ -47,7 +48,6 @@
 - [docs: Add import section to me_identity_group documentation](https://github.com/ovh/terraform-provider-ovh/pull/1024) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (6 months ago)
 - [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
 - [Feature/improve vm ids and ip logic](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/93) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
-- [fix: update source reference for k8s_cluster_override module to use v…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/92) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
 
 #### 📓 Gists I wrote
 
@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (today)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup (1 day ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (1 day ago)
@@ -68,7 +69,6 @@
 - [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider (6 days ago)
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review (2 weeks ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 weeks ago)
-- [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Volkswagen Carnet Component for home assistant (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

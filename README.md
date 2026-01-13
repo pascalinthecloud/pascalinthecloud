@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup (1 day ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (1 day ago)
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager (2 days ago)
@@ -68,7 +69,6 @@
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review (2 weeks ago)
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (2 weeks ago)
 - [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Volkswagen Carnet Component for home assistant (2 weeks ago)
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

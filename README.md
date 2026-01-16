@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [sidilabs/terraform-order](https://github.com/sidilabs/terraform-order) - VSCode extension to order variables in terraform code. (today)
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics. (1 day ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (1 day ago)
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (3 days ago)
@@ -68,7 +69,6 @@
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager (5 days ago)
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API (5 days ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (5 days ago)
-- [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Terraform OpenStack provider (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

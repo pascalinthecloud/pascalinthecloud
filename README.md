@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. (today)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (today)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (today)
 - [sidilabs/terraform-order](https://github.com/sidilabs/terraform-order) - VSCode extension to order variables in terraform code. (today)
@@ -68,7 +69,6 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (3 days ago)
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup (4 days ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (4 days ago)
-- [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager (5 days ago)
 
 #### 👯 Check out some of my recent followers
 

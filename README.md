@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (today)
 - [sidilabs/terraform-order](https://github.com/sidilabs/terraform-order) - VSCode extension to order variables in terraform code. (today)
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics. (1 day ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (1 day ago)
@@ -68,7 +69,6 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (4 days ago)
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager (5 days ago)
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API (5 days ago)
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 

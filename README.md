@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [cdp1337/ARKSurvivalAscended-Linux](https://github.com/cdp1337/ARKSurvivalAscended-Linux) - Simple install script for installing Windows version of Ark Survival Ascended on a Debian server.  Registers with systemd for integration and creates convenience links in /home/steam/ArkSurvivalAscended. (1 day ago)
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. (1 day ago)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (1 day ago)
@@ -68,7 +69,6 @@
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (2 days ago)
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (4 days ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (4 days ago)
-- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup (5 days ago)
 
 #### 👯 Check out some of my recent followers
 

@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management. (4 days ago)
-- [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (6 days ago)
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management. (5 days ago)
+- [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (1 week ago)
 - [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (4 weeks ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (1 month ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.3](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.3), 1 week ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.3](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.3), 2 weeks ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.10.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.10.0), 1 month ago) - Terraform OVH provider
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v0.5.0](https://github.com/efemaer/terrawiz/releases/tag/v0.5.0), 2 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 10 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
@@ -38,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add initial implementation of CloudNative-PG database module with wor…](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/1) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (4 days ago)
-- [fix: update helm provider version to 3.1.1 across multiple modules an…](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/26) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (6 days ago)
+- [Add initial implementation of CloudNative-PG database module with wor…](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/1) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (5 days ago)
+- [fix: update helm provider version to 3.1.1 across multiple modules an…](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/26) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (1 week ago)
 - [fix: update worker VM ID calculation to include index for uniqueness](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/95) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [Add annotations to argocd](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/25) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (2 months ago)
@@ -59,16 +59,16 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
-- [cdp1337/ARKSurvivalAscended-Linux](https://github.com/cdp1337/ARKSurvivalAscended-Linux) - Simple install script for installing Windows version of Ark Survival Ascended on a Debian server.  Registers with systemd for integration and creates convenience links in /home/steam/ArkSurvivalAscended. (1 day ago)
-- [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. (1 day ago)
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (1 day ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 day ago)
-- [sidilabs/terraform-order](https://github.com/sidilabs/terraform-order) - VSCode extension to order variables in terraform code. (1 day ago)
-- [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics. (2 days ago)
-- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (2 days ago)
-- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (4 days ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (4 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
+- [cdp1337/ARKSurvivalAscended-Linux](https://github.com/cdp1337/ARKSurvivalAscended-Linux) - Simple install script for installing Windows version of Ark Survival Ascended on a Debian server.  Registers with systemd for integration and creates convenience links in /home/steam/ArkSurvivalAscended. (2 days ago)
+- [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. (2 days ago)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (2 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 days ago)
+- [sidilabs/terraform-order](https://github.com/sidilabs/terraform-order) - VSCode extension to order variables in terraform code. (2 days ago)
+- [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics. (3 days ago)
+- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (3 days ago)
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (5 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (5 days ago)
 
 #### 👯 Check out some of my recent followers
 

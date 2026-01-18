@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (today)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
 - [cdp1337/ARKSurvivalAscended-Linux](https://github.com/cdp1337/ARKSurvivalAscended-Linux) - Simple install script for installing Windows version of Ark Survival Ascended on a Debian server.  Registers with systemd for integration and creates convenience links in /home/steam/ArkSurvivalAscended. (2 days ago)
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. (2 days ago)
@@ -68,7 +69,6 @@
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics. (3 days ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (3 days ago)
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (5 days ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (5 days ago)
 
 #### 👯 Check out some of my recent followers
 

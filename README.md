@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Personal AI Infrastructure for upgrading humans. (today)
+- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities. (today)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (today)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (today)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (today)

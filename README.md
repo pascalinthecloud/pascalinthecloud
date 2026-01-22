@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sp595](https://github.com/sp595)
 - [standardgalactic](https://github.com/standardgalactic)
 - [gtlpanda](https://github.com/gtlpanda)
 - [ronron22](https://github.com/ronron22)
 - [Nebu2k](https://github.com/Nebu2k)
-- [Analistarjx](https://github.com/Analistarjx)
 
 #### 💬 Feedback
 

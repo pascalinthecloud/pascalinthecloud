@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement resource to trigger OVH storage replication job](https://github.com/ovh/terraform-provider-ovh/pull/1214) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (today)
 - [feat: extend Object Lock support with period normalization and schema…](https://github.com/ovh/terraform-provider-ovh/pull/1212) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (today)
 - [Add initial implementation of CloudNative-PG database module with wor…](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/1) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
 - [fix: update helm provider version to 3.1.1 across multiple modules an…](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/26) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (1 week ago)
@@ -47,7 +48,6 @@
 - [feat: add module normalization and sorting utilities with unit tests](https://github.com/efemaer/terrawiz/pull/60) on [efemaer/terrawiz](https://github.com/efemaer/terrawiz) (3 months ago)
 - [feat: Implement OIDC user management and authentication flow](https://github.com/eduardolat/pgbackweb/pull/126) on [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) (6 months ago)
 - [docs: Add import section to me_identity_group documentation](https://github.com/ovh/terraform-provider-ovh/pull/1024) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (7 months ago)
-- [fix: add lifecycle block to ignore changes for disk file_id in contro…](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/94) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (7 months ago)
 
 #### 📓 Gists I wrote
 
@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (today)
 - [stefanprodan/kswitch](https://github.com/stefanprodan/kswitch) - Kubernetes context manager for macOS (1 day ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 day ago)
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. (4 days ago)
@@ -68,7 +69,6 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 days ago)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (5 days ago)
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (6 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

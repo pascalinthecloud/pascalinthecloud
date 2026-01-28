@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (today)
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management. (today)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (2 days ago)
 - [pascalinthecloud/terraform-provider-pangolin](https://github.com/pascalinthecloud/terraform-provider-pangolin) - Terraform provider for managing Pangolin resources. Use this provider to codify your Pangolin infrastructure and integrate it into your existing IaC workflows. (3 days ago)
 - [pascalinthecloud/keycloak-sticky-idp-redirect](https://github.com/pascalinthecloud/keycloak-sticky-idp-redirect) - A client-aware, cross-tab, and loop-protected JavaScript enhancement for Keycloak login themes to remember and auto-redirect users to their preferred Identity Provider (IdP). (6 days ago)
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management. (2 weeks ago)
 - [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (2 weeks ago)
-- [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (1 month ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (2 months ago)
 - [pascalinthecloud/s3-performance-matrix](https://github.com/pascalinthecloud/s3-performance-matrix) - Automated S3 performance testing suite using MinIO Warp - benchmark object sizes and concurrency levels with visualization. (2 months ago)
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update module source URL to correct repository](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/2) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (today)
 - [feat: add ovh_me_identity_user_token resource](https://github.com/ovh/terraform-provider-ovh/pull/1215) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (3 days ago)
 - [feat: implement resource to trigger OVH storage replication job](https://github.com/ovh/terraform-provider-ovh/pull/1214) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (4 days ago)
 - [feat: extend Object Lock support with period normalization and schema…](https://github.com/ovh/terraform-provider-ovh/pull/1212) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (4 days ago)
@@ -47,7 +48,6 @@
 - [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 - [Add annotations to argocd](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/25) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (3 months ago)
 - [feat: add module normalization and sorting utilities with unit tests](https://github.com/efemaer/terrawiz/pull/60) on [efemaer/terrawiz](https://github.com/efemaer/terrawiz) (3 months ago)
-- [feat: Implement OIDC user management and authentication flow](https://github.com/eduardolat/pgbackweb/pull/126) on [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) (6 months ago)
 
 #### 📓 Gists I wrote
 
@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface. (today)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 day ago)
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation (2 days ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (4 days ago)
@@ -68,7 +69,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF) (1 week ago)
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities. (1 week ago)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (1 week ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add creation of cluster to module including backup to s3](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/4) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (today)
 - [fix: update module source URL to correct repository](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/2) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
 - [feat: add ovh_me_identity_user_token resource](https://github.com/ovh/terraform-provider-ovh/pull/1215) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 week ago)
 - [feat: implement resource to trigger OVH storage replication job](https://github.com/ovh/terraform-provider-ovh/pull/1214) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 week ago)
@@ -47,7 +48,6 @@
 - [fix: update worker VM ID calculation to include index for uniqueness](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/95) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 months ago)
 - [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 - [Add annotations to argocd](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/25) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (3 months ago)
-- [feat: add module normalization and sorting utilities with unit tests](https://github.com/efemaer/terrawiz/pull/60) on [efemaer/terrawiz](https://github.com/efemaer/terrawiz) (3 months ago)
 
 #### 📓 Gists I wrote
 
@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Kubernetes Helm Charts (today)
 - [vmware/packer-examples-for-vsphere](https://github.com/vmware/packer-examples-for-vsphere) - Packer Examples for vSphere (today)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (today)
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface. (1 week ago)
@@ -68,7 +69,6 @@
 - [stefanprodan/kswitch](https://github.com/stefanprodan/kswitch) - Kubernetes context manager for macOS (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 week ago)
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. (2 weeks ago)
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF) (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

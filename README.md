@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.2](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.2), today) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management.
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.3](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.3), today) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.11.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.11.0), 6 days ago) - Terraform OVH provider
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.3](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.3), 1 month ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v0.5.0](https://github.com/efemaer/terrawiz/releases/tag/v0.5.0), 2 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: move resources inside spec and remove default values for limits](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/8) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (today)
 - [[feature]: kubeconfig kubectl k9s integration](https://github.com/ovh/ovhcloud-cli/pull/140) on [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) (today)
 - [fix: remove double base64 encoding for connection secret data](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/7) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (today)
 - [feat: add creation of cluster to module including backup to s3](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/4) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 day ago)
@@ -48,7 +49,6 @@
 - [feat: extend Object Lock support with period normalization and schema…](https://github.com/ovh/terraform-provider-ovh/pull/1212) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 week ago)
 - [Add initial implementation of CloudNative-PG database module with wor…](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/1) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (3 weeks ago)
 - [fix: update helm provider version to 3.1.1 across multiple modules an…](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/26) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (3 weeks ago)
-- [fix: update worker VM ID calculation to include index for uniqueness](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/95) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 months ago)
 
 #### 📓 Gists I wrote
 

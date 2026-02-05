@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[feature]: kubeconfig kubectl k9s integration](https://github.com/ovh/ovhcloud-cli/pull/140) on [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) (today)
 - [fix: remove double base64 encoding for connection secret data](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/7) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (today)
 - [feat: add creation of cluster to module including backup to s3](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/4) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 day ago)
 - [fix: update module source URL to correct repository](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/2) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
@@ -48,7 +49,6 @@
 - [Add initial implementation of CloudNative-PG database module with wor…](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/1) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (3 weeks ago)
 - [fix: update helm provider version to 3.1.1 across multiple modules an…](https://github.com/pascalinthecloud/terraform-cluster-bootstrap/pull/26) on [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) (3 weeks ago)
 - [fix: update worker VM ID calculation to include index for uniqueness](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/95) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 months ago)
-- [feat: iam policy ressource add conditions and expire at](https://github.com/ovh/terraform-provider-ovh/pull/1170) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 
 #### 📓 Gists I wrote
 

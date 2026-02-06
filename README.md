@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (today)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
 - [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Kubernetes Helm Charts (2 days ago)
 - [vmware/packer-examples-for-vsphere](https://github.com/vmware/packer-examples-for-vsphere) - Packer Examples for vSphere (2 days ago)
@@ -69,7 +70,6 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation (1 week ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [stefanprodan/kswitch](https://github.com/stefanprodan/kswitch) - Kubernetes context manager for macOS (2 weeks ago)
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

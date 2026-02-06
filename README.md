@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
 - [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Kubernetes Helm Charts (2 days ago)
 - [vmware/packer-examples-for-vsphere](https://github.com/vmware/packer-examples-for-vsphere) - Packer Examples for vSphere (2 days ago)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (2 days ago)
@@ -69,7 +70,6 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [stefanprodan/kswitch](https://github.com/stefanprodan/kswitch) - Kubernetes context manager for macOS (2 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 weeks ago)
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

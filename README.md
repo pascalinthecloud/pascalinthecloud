@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (today)
 - [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability &amp; Troubleshooting for Kubernetes Services (1 day ago)
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. (1 day ago)
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library (1 day ago)
@@ -69,7 +70,6 @@
 - [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Kubernetes Helm Charts (3 days ago)
 - [vmware/packer-examples-for-vsphere](https://github.com/vmware/packer-examples-for-vsphere) - Packer Examples for vSphere (3 days ago)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (3 days ago)
-- [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

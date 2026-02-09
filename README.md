@@ -69,7 +69,7 @@
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application &amp; APIs. This repo include the main code and logic. (3 days ago)
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (3 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (3 days ago)
-- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Kubernetes Helm Charts (5 days ago)
+- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (5 days ago)
 
 #### 👯 Check out some of my recent followers
 

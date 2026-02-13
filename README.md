@@ -9,7 +9,7 @@
 - [pascalinthecloud/keycloak-sticky-idp-redirect](https://github.com/pascalinthecloud/keycloak-sticky-idp-redirect) - A client-aware, cross-tab, and loop-protected JavaScript enhancement for Keycloak login themes to remember and auto-redirect users to their preferred Identity Provider (IdP). (3 weeks ago)
 - [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (1 month ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (2 months ago)
-- [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (2 months ago)
+- [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (3 months ago)
 - [pascalinthecloud/s3-performance-matrix](https://github.com/pascalinthecloud/s3-performance-matrix) - Automated S3 performance testing suite using MinIO Warp - benchmark object sizes and concurrency levels with visualization. (3 months ago)
 - [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) -  (4 months ago)
 
@@ -29,9 +29,9 @@
 #### 🔭 Latest releases I've contributed to
 
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.3](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.3), 1 week ago) - Terraform module for declarative PostgreSQL database creation in CloudNative-PG with automatic user and secret management.
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.11.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.11.0), 1 week ago) - Terraform OVH provider
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.11.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.11.0), 2 weeks ago) - Terraform OVH provider
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.3](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.3), 1 month ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
-- [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v0.5.0](https://github.com/efemaer/terrawiz/releases/tag/v0.5.0), 2 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
+- [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v0.5.0](https://github.com/efemaer/terrawiz/releases/tag/v0.5.0), 3 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 - [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) ([helm-bookstack-s3-backup-0.1.0](https://github.com/pascalinthecloud/helm-bookstack-s3-backup/releases/tag/helm-bookstack-s3-backup-0.1.0), 11 months ago) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.0](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.0), 11 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/docker-awscli-kubectl-zip](https://github.com/pascalinthecloud/docker-awscli-kubectl-zip) ([v1.0.8](https://github.com/pascalinthecloud/docker-awscli-kubectl-zip/releases/tag/v1.0.8), 11 months ago) - A minimal Docker image with awscli, kubectl, curl, unzip &amp; xxd based on Debian Slim.
@@ -60,16 +60,16 @@
 
 #### ⭐ Recent Stars
 
-- [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes. (today)
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦 (3 days ago)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (4 days ago)
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (5 days ago)
-- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability &amp; Troubleshooting for Kubernetes Services (6 days ago)
-- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. (6 days ago)
-- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library (6 days ago)
-- [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application &amp; APIs. This repo include the main code and logic. (6 days ago)
-- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (6 days ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (6 days ago)
+- [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes. (1 day ago)
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦 (4 days ago)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (5 days ago)
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (6 days ago)
+- [cilium/hubble-ui](https://github.com/cilium/hubble-ui) - Observability &amp; Troubleshooting for Kubernetes Services (1 week ago)
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. (1 week ago)
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library (1 week ago)
+- [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application &amp; APIs. This repo include the main code and logic. (1 week ago)
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage &amp; troubleshoot Kubernetes clusters running Cilium (1 week ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

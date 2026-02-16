@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [msreasonxx-oss](https://github.com/msreasonxx-oss)
 - [ghaering](https://github.com/ghaering)
 - [sp595](https://github.com/sp595)
 - [standardgalactic](https://github.com/standardgalactic)
 - [gtlpanda](https://github.com/gtlpanda)
-- [ronron22](https://github.com/ronron22)
 
 #### 💬 Feedback
 

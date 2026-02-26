@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (1 day ago)
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (today)
 - [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (6 days ago)
 - [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (4 weeks ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.5](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.5), 1 day ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.6](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.6), today) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.3](https://github.com/rustfs/console/releases/tag/v0.1.3), 2 weeks ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.11.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.11.0), 3 weeks ago) - Terraform OVH provider
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.3](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.3), 1 month ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.

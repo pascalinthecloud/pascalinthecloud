@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add OpenID Connect realm resource and documentation](https://github.com/bpg/terraform-provider-proxmox/pull/2655) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (today)
 - [fix: update German translations for consistency and accuracy](https://github.com/rustfs/console/pull/56) on [rustfs/console](https://github.com/rustfs/console) (1 week ago)
 - [Fix/resources](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/9) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
 - [fix: move resources inside spec and remove default values for limits](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/8) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (3 weeks ago)
@@ -49,7 +50,6 @@
 - [fix: update module source URL to correct repository](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/2) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
 - [feat: add ovh_me_identity_user_token resource](https://github.com/ovh/terraform-provider-ovh/pull/1215) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [feat: implement resource to trigger OVH storage replication job](https://github.com/ovh/terraform-provider-ovh/pull/1214) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
-- [feat: extend Object Lock support with period normalization and schema…](https://github.com/ovh/terraform-provider-ovh/pull/1212) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 
 #### 📓 Gists I wrote
 

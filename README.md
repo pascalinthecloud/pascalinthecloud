@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (today)
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD. (1 day ago)
 - [ja-ka/violentmonkey](https://github.com/ja-ka/violentmonkey) - Violentmonkey scripts (1 day ago)
 - [borgbase/vger](https://github.com/borgbase/vger) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (1 day ago)
@@ -70,7 +71,6 @@
 - [pizzabits/secrets-snitcher](https://github.com/pizzabits/secrets-snitcher) - 300 lines eBPF tool that shows which pods are reading your K8s secrets and how often. (1 week ago)
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (1 week ago)
 - [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes. (2 weeks ago)
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

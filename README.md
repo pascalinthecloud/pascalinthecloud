@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [Azure/login](https://github.com/Azure/login) - Connect to Azure (today)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (today)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (5 days ago)
 - [loft-sh/vind](https://github.com/loft-sh/vind) - vCluster in Docker (vind) is KinD (Kubernetes in Docker) alternative with additional features. For source code, see loft-sh/vcluster repo linked below. (6 days ago)
@@ -68,7 +69,6 @@
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (1 week ago)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS. (2 weeks ago)
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. (2 weeks ago)
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

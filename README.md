@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux (today)
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure (1 day ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (1 day ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (6 days ago)
@@ -68,7 +69,6 @@
 - [ja-ka/violentmonkey](https://github.com/ja-ka/violentmonkey) - Violentmonkey scripts (1 week ago)
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (1 week ago)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS. (2 weeks ago)
-- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

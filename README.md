@@ -4,7 +4,7 @@
 
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (1 week ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (2 weeks ago)
-- [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (2 weeks ago)
+- [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (3 weeks ago)
 - [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (1 month ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - Terraform OVH provider (1 month ago)
 - [pascalinthecloud/terraform-provider-pangolin](https://github.com/pascalinthecloud/terraform-provider-pangolin) - Terraform provider for managing Pangolin resources. Use this provider to codify your Pangolin infrastructure and integrate it into your existing IaC workflows. (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.12.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.12.0), 1 day ago) - Terraform OVH provider
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.98.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.98.1), 3 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.12.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.12.0), 2 days ago) - Terraform OVH provider
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.98.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.98.1), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.6](https://github.com/rustfs/console/releases/tag/v0.1.6), 1 week ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v1.0.0](https://github.com/efemaer/terrawiz/releases/tag/v1.0.0), 1 week ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.6](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.6), 2 weeks ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
@@ -39,7 +39,7 @@
 #### 🔨 My recent Pull Requests
 
 - [feat(access): add OpenID Connect realm resource and documentation](https://github.com/bpg/terraform-provider-proxmox/pull/2655) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 week ago)
-- [fix: update German translations for consistency and accuracy](https://github.com/rustfs/console/pull/56) on [rustfs/console](https://github.com/rustfs/console) (2 weeks ago)
+- [fix: update German translations for consistency and accuracy](https://github.com/rustfs/console/pull/56) on [rustfs/console](https://github.com/rustfs/console) (3 weeks ago)
 - [Fix/resources](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/9) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (3 weeks ago)
 - [fix: move resources inside spec and remove default values for limits](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/8) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
 - [[feature]: kubeconfig kubectl k9s integration](https://github.com/ovh/ovhcloud-cli/pull/140) on [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) (1 month ago)
@@ -59,9 +59,9 @@
 
 #### ⭐ Recent Stars
 
-- [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux (3 days ago)
-- [Azure/login](https://github.com/Azure/login) - Connect to Azure (4 days ago)
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (4 days ago)
+- [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux (4 days ago)
+- [Azure/login](https://github.com/Azure/login) - Connect to Azure (5 days ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (5 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 week ago)
 - [loft-sh/vind](https://github.com/loft-sh/vind) - vCluster in Docker (vind) is KinD (Kubernetes in Docker) alternative with additional features. For source code, see loft-sh/vcluster repo linked below. (1 week ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)

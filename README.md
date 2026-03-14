@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (today)
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (1 day ago)
 - [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux (5 days ago)
 - [Azure/login](https://github.com/Azure/login) - Connect to Azure (6 days ago)
@@ -67,7 +68,6 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD. (1 week ago)
 - [ja-ka/violentmonkey](https://github.com/ja-ka/violentmonkey) - Violentmonkey scripts (1 week ago)
-- [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 

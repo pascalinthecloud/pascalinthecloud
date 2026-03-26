@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (today)
 - [kubara-io/kubara](https://github.com/kubara-io/kubara) - Kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (1 day ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (1 week ago)
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings. (1 week ago)
@@ -67,7 +68,6 @@
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your teams. (1 week ago)
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (1 week ago)
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud (1 week ago)
-- [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

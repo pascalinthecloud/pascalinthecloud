@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.100.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.100.0), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.100.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.100.0), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.4](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.4), 3 weeks ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.12.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.12.0), 3 weeks ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.6](https://github.com/rustfs/console/releases/tag/v0.1.6), 1 month ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
@@ -45,8 +45,8 @@
 - [feat(access): add OpenID Connect realm resource and documentation](https://github.com/bpg/terraform-provider-proxmox/pull/2655) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 month ago)
 - [fix: update German translations for consistency and accuracy](https://github.com/rustfs/console/pull/56) on [rustfs/console](https://github.com/rustfs/console) (1 month ago)
 - [Fix/resources](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/9) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
-- [fix: move resources inside spec and remove default values for limits](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/8) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
-- [[feature]: kubeconfig kubectl k9s integration](https://github.com/ovh/ovhcloud-cli/pull/140) on [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) (1 month ago)
+- [fix: move resources inside spec and remove default values for limits](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/8) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 months ago)
+- [[feature]: kubeconfig kubectl k9s integration](https://github.com/ovh/ovhcloud-cli/pull/140) on [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) (2 months ago)
 
 #### 📓 Gists I wrote
 
@@ -58,13 +58,13 @@
 
 #### ⭐ Recent Stars
 
-- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents. (4 days ago)
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration (4 days ago)
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (5 days ago)
-- [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - A Simple Terraform Provider and Module Registry (6 days ago)
-- [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 &#34;Kubernetes Certified Security Specialist&#34; Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you. (6 days ago)
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... (6 days ago)
-- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (6 days ago)
+- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents. (5 days ago)
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration (5 days ago)
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (6 days ago)
+- [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - A Simple Terraform Provider and Module Registry (1 week ago)
+- [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 &#34;Kubernetes Certified Security Specialist&#34; Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you. (1 week ago)
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... (1 week ago)
+- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (1 week ago)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (1 week ago)
 - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (1 week ago)
 - [kubara-io/kubara](https://github.com/kubara-io/kubara) - Kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (1 week ago)

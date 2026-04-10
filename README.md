@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.101.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.101.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.101.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.101.1), today) - Terraform / OpenTofu Provider for Proxmox VE
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.7](https://github.com/rustfs/console/releases/tag/v0.1.7), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.4](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.4), 3 weeks ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.12.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.12.0), 1 month ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.

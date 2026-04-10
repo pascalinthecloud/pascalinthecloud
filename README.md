@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [pascalinthecloud/smbpulse](https://github.com/pascalinthecloud/smbpulse) - Self-hosted SMB performance monitoring tool. Runs scheduled fio &amp; mdtest benchmarks against SMB shares, stores results in PostgreSQL, and visualizes trends over time via a web dashboard.
 - [pascalinthecloud/terraform-provider-pangolin](https://github.com/pascalinthecloud/terraform-provider-pangolin) - Terraform provider for managing Pangolin resources. Use this provider to codify your Pangolin infrastructure and integrate it into your existing IaC workflows.
 - [pascalinthecloud/keycloak-sticky-idp-redirect](https://github.com/pascalinthecloud/keycloak-sticky-idp-redirect) - A client-aware, cross-tab, and loop-protected JavaScript enhancement for Keycloak login themes to remember and auto-redirect users to their preferred Identity Provider (IdP).
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
@@ -24,7 +25,6 @@
 - [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel.
 - [pascalinthecloud/helm-mealie-s3-backup](https://github.com/pascalinthecloud/helm-mealie-s3-backup) - A Helm chart for automating Mealie backups to a S3 bucket in Kubernetes.
 - [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) - Simple tool collecting fio results from multiple servers running on docker.
-- [pascalinthecloud/helm-bookstack-s3-backup](https://github.com/pascalinthecloud/helm-bookstack-s3-backup) - A Helm chart for automating Bookstack backups to a S3 bucket in Kubernetes.
 
 #### 🔭 Latest releases I've contributed to
 

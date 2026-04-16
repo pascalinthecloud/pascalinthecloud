@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (today)
 - [hpc/ior](https://github.com/hpc/ior) - IOR and mdtest (6 days ago)
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph (1 week ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors (1 week ago)
@@ -67,7 +68,6 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (2 weeks ago)
 - [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - A Simple Terraform Provider and Module Registry (2 weeks ago)
 - [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 &#34;Kubernetes Certified Security Specialist&#34; Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you. (2 weeks ago)
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

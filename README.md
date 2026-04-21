@@ -6,7 +6,7 @@
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (1 month ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (1 month ago)
-- [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (1 month ago)
+- [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (2 months ago)
 - [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (2 months ago)
 - [pascalinthecloud/terraform-provider-pangolin](https://github.com/pascalinthecloud/terraform-provider-pangolin) - Terraform provider for managing Pangolin resources. Use this provider to codify your Pangolin infrastructure and integrate it into your existing IaC workflows. (2 months ago)
 - [pascalinthecloud/keycloak-sticky-idp-redirect](https://github.com/pascalinthecloud/keycloak-sticky-idp-redirect) - A client-aware, cross-tab, and loop-protected JavaScript enhancement for Keycloak login themes to remember and auto-redirect users to their preferred Identity Provider (IdP). (2 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.103.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.103.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.103.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.103.0), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.13.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.13.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.7](https://github.com/rustfs/console/releases/tag/v0.1.7), 1 week ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.7](https://github.com/rustfs/console/releases/tag/v0.1.7), 2 weeks ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.4](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.4), 1 month ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v1.0.0](https://github.com/efemaer/terrawiz/releases/tag/v1.0.0), 1 month ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.6](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.6), 1 month ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
@@ -43,7 +43,7 @@
 - [feat: add Cilium CNI support and dual-stack configuration](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/99) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [feat: add support for ha cluster with vip](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/98) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [feat(access): add OpenID Connect realm resource and documentation](https://github.com/bpg/terraform-provider-proxmox/pull/2655) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 month ago)
-- [fix: update German translations for consistency and accuracy](https://github.com/rustfs/console/pull/56) on [rustfs/console](https://github.com/rustfs/console) (1 month ago)
+- [fix: update German translations for consistency and accuracy](https://github.com/rustfs/console/pull/56) on [rustfs/console](https://github.com/rustfs/console) (2 months ago)
 - [Fix/resources](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/9) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 months ago)
 - [fix: move resources inside spec and remove default values for limits](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/8) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 months ago)
 - [[feature]: kubeconfig kubectl k9s integration](https://github.com/ovh/ovhcloud-cli/pull/140) on [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) (2 months ago)
@@ -58,15 +58,15 @@
 
 #### ⭐ Recent Stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (today)
-- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (4 days ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 day ago)
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (5 days ago)
 - [hpc/ior](https://github.com/hpc/ior) - IOR and mdtest (1 week ago)
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph (1 week ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors (1 week ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 week ago)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (2 weeks ago)
 - [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents. (2 weeks ago)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration (2 weeks ago)
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (2 weeks ago)
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (3 weeks ago)
 - [boring-registry/boring-registry](https://github.com/boring-registry/boring-registry) - A Simple Terraform Provider and Module Registry (3 weeks ago)
 
 #### 👯 Check out some of my recent followers

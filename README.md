@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) - Packer Plugin for VMware vSphere (today)
 - [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit (2 days ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (6 days ago)
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (1 week ago)
@@ -67,7 +68,6 @@
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (2 weeks ago)
 - [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents. (3 weeks ago)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration (3 weeks ago)
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

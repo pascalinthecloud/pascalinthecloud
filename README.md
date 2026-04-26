@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (today)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 month ago)
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (1 month ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (1 month ago)
 - [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (2 months ago)
@@ -37,6 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add support for IPv6 network configuration including static and…](https://github.com/ubiquiti-community/terraform-provider-unifi/pull/158) on [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) (today)
+- [Fix/bug when upgrading to v1.12.7](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/100) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
+- [feat(storage): add support for storage policies in disk configuration…](https://github.com/vmware/packer-plugin-vsphere/pull/697) on [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) (today)
 - [feat(cloud_project): add client-side deletion_protection attribute](https://github.com/ovh/terraform-provider-ovh/pull/1270) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [feat: support for multiple groups in identity user resource](https://github.com/ovh/terraform-provider-ovh/pull/1257) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [feat: Add IPv6 and DHCPv6 fields to  network marshal](https://github.com/ubiquiti-community/go-unifi/pull/13) on [ubiquiti-community/go-unifi](https://github.com/ubiquiti-community/go-unifi) (1 month ago)
@@ -44,9 +47,6 @@
 - [feat: add support for ha cluster with vip](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/98) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [feat(access): add OpenID Connect realm resource and documentation](https://github.com/bpg/terraform-provider-proxmox/pull/2655) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 month ago)
 - [fix: update German translations for consistency and accuracy](https://github.com/rustfs/console/pull/56) on [rustfs/console](https://github.com/rustfs/console) (2 months ago)
-- [Fix/resources](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/9) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 months ago)
-- [fix: move resources inside spec and remove default values for limits](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/8) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 months ago)
-- [[feature]: kubeconfig kubectl k9s integration](https://github.com/ovh/ovhcloud-cli/pull/140) on [ovh/ovhcloud-cli](https://github.com/ovh/ovhcloud-cli) (2 months ago)
 
 #### 📓 Gists I wrote
 

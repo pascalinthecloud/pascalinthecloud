@@ -39,7 +39,7 @@
 
 - [feat: Add support for IPv6 network configuration including static and…](https://github.com/ubiquiti-community/terraform-provider-unifi/pull/158) on [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) (1 day ago)
 - [Fix/bug when upgrading to v1.12.7](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/100) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 day ago)
-- [feat(storage): add support for storage policies in disk configuration…](https://github.com/vmware/packer-plugin-vsphere/pull/697) on [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) (1 day ago)
+- [feat: add support for storage policies](https://github.com/vmware/packer-plugin-vsphere/pull/697) on [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) (1 day ago)
 - [feat(cloud_project): add client-side deletion_protection attribute](https://github.com/ovh/terraform-provider-ovh/pull/1270) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [feat: support for multiple groups in identity user resource](https://github.com/ovh/terraform-provider-ovh/pull/1257) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [feat: Add IPv6 and DHCPv6 fields to  network marshal](https://github.com/ubiquiti-community/go-unifi/pull/13) on [ubiquiti-community/go-unifi](https://github.com/ubiquiti-community/go-unifi) (1 month ago)

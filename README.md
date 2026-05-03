@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) -  (today)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 week ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 month ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (2 months ago)
@@ -11,10 +12,10 @@
 - [pascalinthecloud/terraform-provider-pangolin](https://github.com/pascalinthecloud/terraform-provider-pangolin) - Terraform provider for managing Pangolin resources. Use this provider to codify your Pangolin infrastructure and integrate it into your existing IaC workflows. (3 months ago)
 - [pascalinthecloud/keycloak-sticky-idp-redirect](https://github.com/pascalinthecloud/keycloak-sticky-idp-redirect) - A client-aware, cross-tab, and loop-protected JavaScript enhancement for Keycloak login themes to remember and auto-redirect users to their preferred Identity Provider (IdP). (3 months ago)
 - [pascalinthecloud/terraform-cluster-bootstrap](https://github.com/pascalinthecloud/terraform-cluster-bootstrap) -  (3 months ago)
-- [efemaer/terrawiz](https://github.com/efemaer/terrawiz) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms. (5 months ago)
 
 #### 🌱 My latest projects
 
+- [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) - 
 - [pascalinthecloud/smbpulse](https://github.com/pascalinthecloud/smbpulse) - Self-hosted SMB performance monitoring tool. Runs scheduled fio &amp; mdtest benchmarks against SMB shares, stores results in PostgreSQL, and visualizes trends over time via a web dashboard.
 - [pascalinthecloud/terraform-provider-pangolin](https://github.com/pascalinthecloud/terraform-provider-pangolin) - Terraform provider for managing Pangolin resources. Use this provider to codify your Pangolin infrastructure and integrate it into your existing IaC workflows.
 - [pascalinthecloud/keycloak-sticky-idp-redirect](https://github.com/pascalinthecloud/keycloak-sticky-idp-redirect) - A client-aware, cross-tab, and loop-protected JavaScript enhancement for Keycloak login themes to remember and auto-redirect users to their preferred Identity Provider (IdP).
@@ -24,7 +25,6 @@
 - [pascalinthecloud/terraform-query-demo](https://github.com/pascalinthecloud/terraform-query-demo) - 
 - [pascalinthecloud/keycloak-theme-examples](https://github.com/pascalinthecloud/keycloak-theme-examples) - A curated collection of Keycloak theme examples for login, account, admin console, and email templates. Useful as a reference for building your own custom Keycloak look &amp; feel.
 - [pascalinthecloud/helm-mealie-s3-backup](https://github.com/pascalinthecloud/helm-mealie-s3-backup) - A Helm chart for automating Mealie backups to a S3 bucket in Kubernetes.
-- [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) - Simple tool collecting fio results from multiple servers running on docker.
 
 #### 🔭 Latest releases I've contributed to
 

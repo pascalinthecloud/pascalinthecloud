@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [akakraft-bs/workshop-online](https://github.com/akakraft-bs/workshop-online) - WebApp zur Verwaltung des Vereins inkl. Inventarsystem, Abrechnung und Termin Planung (today)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (2 days ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (2 days ago)
 - [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) - Packer Plugin for VMware vSphere (1 week ago)
@@ -67,7 +68,6 @@
 - [hpc/ior](https://github.com/hpc/ior) - IOR and mdtest (3 weeks ago)
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (4 weeks ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors (4 weeks ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

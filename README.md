@@ -7,7 +7,7 @@
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (3 weeks ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (2 months ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (2 months ago)
-- [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (2 months ago)
+- [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (3 months ago)
 - [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (3 months ago)
 - [pascalinthecloud/terraform-provider-pangolin](https://github.com/pascalinthecloud/terraform-provider-pangolin) - Terraform provider for managing Pangolin resources. Use this provider to codify your Pangolin infrastructure and integrate it into your existing IaC workflows. (3 months ago)
 - [pascalinthecloud/keycloak-sticky-idp-redirect](https://github.com/pascalinthecloud/keycloak-sticky-idp-redirect) - A client-aware, cross-tab, and loop-protected JavaScript enhancement for Keycloak login themes to remember and auto-redirect users to their preferred Identity Provider (IdP). (3 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [akakraft-bs/workshop-online](https://github.com/akakraft-bs/workshop-online) - WebApp zur Verwaltung des Vereins inkl. Inventarsystem, Abrechnung und Termin Planung (1 week ago)
+- [akakraft-bs/workshop-online](https://github.com/akakraft-bs/workshop-online) - WebApp zur Verwaltung des Vereins inkl. Inventarsystem, Abrechnung und Termin Planung (2 weeks ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (2 weeks ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (2 weeks ago)
 - [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) - Packer Plugin for VMware vSphere (3 weeks ago)

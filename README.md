@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extend nsxt_policy_segment and nsxt_policy_tier1_gateway datasources](https://github.com/vmware/terraform-provider-nsxt/pull/2110) on [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) (today)
 - [Feat/#1303 add standalone ovh cloud project storage tagging](https://github.com/ovh/terraform-provider-ovh/pull/1305) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (3 weeks ago)
 - [Feat/#1302 expose tags on ovh cloud project storage](https://github.com/ovh/terraform-provider-ovh/pull/1304) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (3 weeks ago)
 - [feat: Add support for IPv6 network configuration including static and…](https://github.com/ubiquiti-community/terraform-provider-unifi/pull/158) on [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) (1 month ago)
@@ -46,7 +47,6 @@
 - [feat: support for multiple groups in identity user resource](https://github.com/ovh/terraform-provider-ovh/pull/1257) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 - [feat: Add IPv6 and DHCPv6 fields to  network marshal](https://github.com/ubiquiti-community/go-unifi/pull/13) on [ubiquiti-community/go-unifi](https://github.com/ubiquiti-community/go-unifi) (2 months ago)
 - [feat: add Cilium CNI support and dual-stack configuration](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/99) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 months ago)
-- [feat: add support for ha cluster with vip](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/98) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 months ago)
 
 #### 📓 Gists I wrote
 

@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo? (today)
 - [akakraft-bs/workshop-online](https://github.com/akakraft-bs/workshop-online) - WebApp zur Verwaltung des Vereins inkl. Inventarsystem, Abrechnung und Termin Planung (4 weeks ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 month ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 month ago)
@@ -67,7 +68,6 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (1 month ago)
 - [hpc/ior](https://github.com/hpc/ior) - IOR and mdtest (1 month ago)
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (1 month ago)
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

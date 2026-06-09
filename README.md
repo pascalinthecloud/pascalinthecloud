@@ -37,6 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix trivy-action ref to v0.36.0 (was unresolvable 0.28.0)](https://github.com/pascalinthecloud/terrastrata/pull/2) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
+- [Feat/v0.1 implementation](https://github.com/pascalinthecloud/terrastrata/pull/1) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [Extend nsxt_policy_segment and nsxt_policy_tier1_gateway datasources](https://github.com/vmware/terraform-provider-nsxt/pull/2110) on [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) (1 week ago)
 - [Feat/#1303 add standalone ovh cloud project storage tagging](https://github.com/ovh/terraform-provider-ovh/pull/1305) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [Feat/#1302 expose tags on ovh cloud project storage](https://github.com/ovh/terraform-provider-ovh/pull/1304) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
@@ -45,8 +47,6 @@
 - [[wip] feat: add support for storage policies](https://github.com/vmware/packer-plugin-vsphere/pull/697) on [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) (1 month ago)
 - [feat(cloud_project): add client-side deletion_protection attribute](https://github.com/ovh/terraform-provider-ovh/pull/1270) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 - [feat: support for multiple groups in identity user resource](https://github.com/ovh/terraform-provider-ovh/pull/1257) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
-- [feat: Add IPv6 and DHCPv6 fields to  network marshal](https://github.com/ubiquiti-community/go-unifi/pull/13) on [ubiquiti-community/go-unifi](https://github.com/ubiquiti-community/go-unifi) (2 months ago)
-- [feat: add Cilium CNI support and dual-stack configuration](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/99) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 months ago)
 
 #### 📓 Gists I wrote
 

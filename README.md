@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mirror): TTL revalidation for the versions index](https://github.com/pascalinthecloud/terrastrata/pull/3) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [ci: fix trivy-action ref to v0.36.0 (was unresolvable 0.28.0)](https://github.com/pascalinthecloud/terrastrata/pull/2) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [Feat/v0.1 implementation](https://github.com/pascalinthecloud/terrastrata/pull/1) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [Extend nsxt_policy_segment and nsxt_policy_tier1_gateway datasources](https://github.com/vmware/terraform-provider-nsxt/pull/2110) on [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) (1 week ago)
@@ -46,7 +47,6 @@
 - [Fix/bug when upgrading to v1.12.7](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/100) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [[wip] feat: add support for storage policies](https://github.com/vmware/packer-plugin-vsphere/pull/697) on [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) (1 month ago)
 - [feat(cloud_project): add client-side deletion_protection attribute](https://github.com/ovh/terraform-provider-ovh/pull/1270) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
-- [feat: support for multiple groups in identity user resource](https://github.com/ovh/terraform-provider-ovh/pull/1257) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 
 #### 📓 Gists I wrote
 

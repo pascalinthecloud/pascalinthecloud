@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(prewarm): optional startup cache seeding](https://github.com/pascalinthecloud/terrastrata/pull/4) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [feat(mirror): TTL revalidation for the versions index](https://github.com/pascalinthecloud/terrastrata/pull/3) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [ci: fix trivy-action ref to v0.36.0 (was unresolvable 0.28.0)](https://github.com/pascalinthecloud/terrastrata/pull/2) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [Feat/v0.1 implementation](https://github.com/pascalinthecloud/terrastrata/pull/1) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
@@ -46,7 +47,6 @@
 - [feat: Add support for IPv6 network configuration including static and…](https://github.com/ubiquiti-community/terraform-provider-unifi/pull/158) on [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) (1 month ago)
 - [Fix/bug when upgrading to v1.12.7](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/100) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
 - [[wip] feat: add support for storage policies](https://github.com/vmware/packer-plugin-vsphere/pull/697) on [vmware/packer-plugin-vsphere](https://github.com/vmware/packer-plugin-vsphere) (1 month ago)
-- [feat(cloud_project): add client-side deletion_protection attribute](https://github.com/ovh/terraform-provider-ovh/pull/1270) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
 
 #### 📓 Gists I wrote
 

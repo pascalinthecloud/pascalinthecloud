@@ -38,6 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(release): prep v0.2.0](https://github.com/pascalinthecloud/terrastrata/pull/13) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
+- [docs: open-source hygiene (CoC, changelog, templates, dependabot)](https://github.com/pascalinthecloud/terrastrata/pull/12) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [feat(helm): multi-replica HA mode (S3-backed)](https://github.com/pascalinthecloud/terrastrata/pull/11) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [feat(mirror): coalesce concurrent cold requests (singleflight)](https://github.com/pascalinthecloud/terrastrata/pull/10) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [ci: bump GitHub Actions to Node 24 runtime majors](https://github.com/pascalinthecloud/terrastrata/pull/9) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
@@ -46,8 +48,6 @@
 - [feat(cache): size-bounded LRU eviction for the local cache](https://github.com/pascalinthecloud/terrastrata/pull/6) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [feat(observ): metrics for versions-index freshness and pre-warm](https://github.com/pascalinthecloud/terrastrata/pull/5) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [feat(prewarm): optional startup cache seeding](https://github.com/pascalinthecloud/terrastrata/pull/4) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
-- [feat(mirror): TTL revalidation for the versions index](https://github.com/pascalinthecloud/terrastrata/pull/3) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
-- [ci: fix trivy-action ref to v0.36.0 (was unresolvable 0.28.0)](https://github.com/pascalinthecloud/terrastrata/pull/2) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
 
 #### 📓 Gists I wrote
 

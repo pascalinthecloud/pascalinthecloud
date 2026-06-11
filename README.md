@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mirror): coalesce concurrent cold requests (singleflight)](https://github.com/pascalinthecloud/terrastrata/pull/10) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [ci: bump GitHub Actions to Node 24 runtime majors](https://github.com/pascalinthecloud/terrastrata/pull/9) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [ci: release workflow — multi-arch GHCR image, SBOM, provenance, cosign](https://github.com/pascalinthecloud/terrastrata/pull/8) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [perf(cache): skip read-path mtime touch when eviction is off; two-pas…](https://github.com/pascalinthecloud/terrastrata/pull/7) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
@@ -47,7 +48,6 @@
 - [feat(mirror): TTL revalidation for the versions index](https://github.com/pascalinthecloud/terrastrata/pull/3) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
 - [ci: fix trivy-action ref to v0.36.0 (was unresolvable 0.28.0)](https://github.com/pascalinthecloud/terrastrata/pull/2) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
 - [Feat/v0.1 implementation](https://github.com/pascalinthecloud/terrastrata/pull/1) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
-- [Extend nsxt_policy_segment and nsxt_policy_tier1_gateway datasources](https://github.com/vmware/terraform-provider-nsxt/pull/2110) on [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) (1 week ago)
 
 #### 📓 Gists I wrote
 

@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 day ago)
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (today)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 month ago)
 - [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) -  (1 month ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: bump GitHub Actions to Node 24 runtime majors](https://github.com/pascalinthecloud/terrastrata/pull/9) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [ci: release workflow — multi-arch GHCR image, SBOM, provenance, cosign](https://github.com/pascalinthecloud/terrastrata/pull/8) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [perf(cache): skip read-path mtime touch when eviction is off; two-pas…](https://github.com/pascalinthecloud/terrastrata/pull/7) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [feat(cache): size-bounded LRU eviction for the local cache](https://github.com/pascalinthecloud/terrastrata/pull/6) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
@@ -47,7 +48,6 @@
 - [ci: fix trivy-action ref to v0.36.0 (was unresolvable 0.28.0)](https://github.com/pascalinthecloud/terrastrata/pull/2) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
 - [Feat/v0.1 implementation](https://github.com/pascalinthecloud/terrastrata/pull/1) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
 - [Extend nsxt_policy_segment and nsxt_policy_tier1_gateway datasources](https://github.com/vmware/terraform-provider-nsxt/pull/2110) on [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) (1 week ago)
-- [Feat/#1303 add standalone ovh cloud project storage tagging](https://github.com/ovh/terraform-provider-ovh/pull/1305) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 
 #### 📓 Gists I wrote
 

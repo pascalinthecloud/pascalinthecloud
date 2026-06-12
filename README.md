@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.1.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.1.0), 2 days ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.2.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.2.0), today) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.5](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.5), 2 days ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.109.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.109.0), 6 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.13.1](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.13.1), 1 month ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(release): land v0.2.0 prep &#43; cosign fix on main](https://github.com/pascalinthecloud/terrastrata/pull/15) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [chore(release): prep v0.2.0](https://github.com/pascalinthecloud/terrastrata/pull/13) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [docs: open-source hygiene (CoC, changelog, templates, dependabot)](https://github.com/pascalinthecloud/terrastrata/pull/12) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [feat(helm): multi-replica HA mode (S3-backed)](https://github.com/pascalinthecloud/terrastrata/pull/11) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
@@ -47,7 +48,6 @@
 - [perf(cache): skip read-path mtime touch when eviction is off; two-pas…](https://github.com/pascalinthecloud/terrastrata/pull/7) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
 - [feat(cache): size-bounded LRU eviction for the local cache](https://github.com/pascalinthecloud/terrastrata/pull/6) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
 - [feat(observ): metrics for versions-index freshness and pre-warm](https://github.com/pascalinthecloud/terrastrata/pull/5) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
-- [feat(prewarm): optional startup cache seeding](https://github.com/pascalinthecloud/terrastrata/pull/4) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 days ago)
 
 #### 📓 Gists I wrote
 

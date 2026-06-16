@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (today)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (1 week ago)
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo? (1 week ago)
 - [akakraft-bs/workshop-online](https://github.com/akakraft-bs/workshop-online) - WebApp zur Verwaltung des Vereins inkl. Inventarsystem, Abrechnung und Termin Planung (1 month ago)
@@ -68,7 +69,6 @@
 - [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit (1 month ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 month ago)
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (2 months ago)
-- [hpc/ior](https://github.com/hpc/ior) - IOR and mdtest (2 months ago)
 
 #### 👯 Check out some of my recent followers
 

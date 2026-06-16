@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(observ): widen latency histogram buckets for slow zip fetches](https://github.com/pascalinthecloud/terrastrata/pull/17) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [feat(local): docker-compose observability stack (Prometheus &#43; Grafana)](https://github.com/pascalinthecloud/terrastrata/pull/16) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [chore(release): land v0.2.0 prep &#43; cosign fix on main](https://github.com/pascalinthecloud/terrastrata/pull/15) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 days ago)
 - [chore(release): prep v0.2.0](https://github.com/pascalinthecloud/terrastrata/pull/13) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (5 days ago)
@@ -47,7 +48,6 @@
 - [ci: bump GitHub Actions to Node 24 runtime majors](https://github.com/pascalinthecloud/terrastrata/pull/9) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (5 days ago)
 - [ci: release workflow — multi-arch GHCR image, SBOM, provenance, cosign](https://github.com/pascalinthecloud/terrastrata/pull/8) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
 - [perf(cache): skip read-path mtime touch when eviction is off; two-pas…](https://github.com/pascalinthecloud/terrastrata/pull/7) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
-- [feat(cache): size-bounded LRU eviction for the local cache](https://github.com/pascalinthecloud/terrastrata/pull/6) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
 
 #### 📓 Gists I wrote
 

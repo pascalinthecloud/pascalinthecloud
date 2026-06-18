@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 day ago)
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (2 days ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 month ago)
 - [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) -  (1 month ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.8](https://github.com/rustfs/console/releases/tag/v0.1.8), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.14.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.14.0), 5 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.2.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.2.0), 5 days ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.8](https://github.com/rustfs/console/releases/tag/v0.1.8), 4 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.14.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.14.0), 6 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.2.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.2.0), 6 days ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.5](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.5), 1 week ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.109.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.109.0), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v1.0.0](https://github.com/efemaer/terrawiz/releases/tag/v1.0.0), 3 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
@@ -38,14 +38,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(observ): widen latency histogram buckets for slow zip fetches](https://github.com/pascalinthecloud/terrastrata/pull/17) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
-- [feat(local): docker-compose observability stack (Prometheus &#43; Grafana)](https://github.com/pascalinthecloud/terrastrata/pull/16) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
-- [chore(release): land v0.2.0 prep &#43; cosign fix on main](https://github.com/pascalinthecloud/terrastrata/pull/15) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (5 days ago)
-- [chore(release): prep v0.2.0](https://github.com/pascalinthecloud/terrastrata/pull/13) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
-- [docs: open-source hygiene (CoC, changelog, templates, dependabot)](https://github.com/pascalinthecloud/terrastrata/pull/12) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
-- [feat(helm): multi-replica HA mode (S3-backed)](https://github.com/pascalinthecloud/terrastrata/pull/11) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
-- [feat(mirror): coalesce concurrent cold requests (singleflight)](https://github.com/pascalinthecloud/terrastrata/pull/10) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
-- [ci: bump GitHub Actions to Node 24 runtime majors](https://github.com/pascalinthecloud/terrastrata/pull/9) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
+- [fix(observ): widen latency histogram buckets for slow zip fetches](https://github.com/pascalinthecloud/terrastrata/pull/17) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 days ago)
+- [feat(local): docker-compose observability stack (Prometheus &#43; Grafana)](https://github.com/pascalinthecloud/terrastrata/pull/16) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 days ago)
+- [chore(release): land v0.2.0 prep &#43; cosign fix on main](https://github.com/pascalinthecloud/terrastrata/pull/15) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
+- [chore(release): prep v0.2.0](https://github.com/pascalinthecloud/terrastrata/pull/13) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
+- [docs: open-source hygiene (CoC, changelog, templates, dependabot)](https://github.com/pascalinthecloud/terrastrata/pull/12) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
+- [feat(helm): multi-replica HA mode (S3-backed)](https://github.com/pascalinthecloud/terrastrata/pull/11) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
+- [feat(mirror): coalesce concurrent cold requests (singleflight)](https://github.com/pascalinthecloud/terrastrata/pull/10) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
+- [ci: bump GitHub Actions to Node 24 runtime majors](https://github.com/pascalinthecloud/terrastrata/pull/9) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [ci: release workflow — multi-arch GHCR image, SBOM, provenance, cosign](https://github.com/pascalinthecloud/terrastrata/pull/8) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [perf(cache): skip read-path mtime touch when eviction is off; two-pas…](https://github.com/pascalinthecloud/terrastrata/pull/7) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 
@@ -59,12 +59,12 @@
 
 #### ⭐ Recent Stars
 
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org (today)
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (today)
-- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (today)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. (1 day ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org (1 day ago)
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (1 day ago)
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (1 day ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. (2 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (1 week ago)
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo? (1 week ago)
 - [akakraft-bs/workshop-online](https://github.com/akakraft-bs/workshop-online) - WebApp zur Verwaltung des Vereins inkl. Inventarsystem, Abrechnung und Termin Planung (1 month ago)

@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [anthonyroussel](https://github.com/anthonyroussel)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [ipqwery](https://github.com/ipqwery)
 - [msreasonxx-oss](https://github.com/msreasonxx-oss)
 - [ghaering](https://github.com/ghaering)
-- [sp595](https://github.com/sp595)
 
 #### 💬 Feedback
 

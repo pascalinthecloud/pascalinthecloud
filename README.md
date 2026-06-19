@@ -38,6 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/ovh/terraform-provider-ovh/pull/1353) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (today)
+- [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/pascalinthecloud/terraform-provider-ovh/pull/1) on [pascalinthecloud/terraform-provider-ovh](https://github.com/pascalinthecloud/terraform-provider-ovh) (today)
 - [fix: replace base_thread_count with jvm_threads_live_threads for Keycloak 26&#43;](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/12) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (1 day ago)
 - [fix(observ): widen latency histogram buckets for slow zip fetches](https://github.com/pascalinthecloud/terrastrata/pull/17) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 days ago)
 - [feat(local): docker-compose observability stack (Prometheus &#43; Grafana)](https://github.com/pascalinthecloud/terrastrata/pull/16) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 days ago)
@@ -46,8 +48,6 @@
 - [docs: open-source hygiene (CoC, changelog, templates, dependabot)](https://github.com/pascalinthecloud/terrastrata/pull/12) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [feat(helm): multi-replica HA mode (S3-backed)](https://github.com/pascalinthecloud/terrastrata/pull/11) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [feat(mirror): coalesce concurrent cold requests (singleflight)](https://github.com/pascalinthecloud/terrastrata/pull/10) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
-- [ci: bump GitHub Actions to Node 24 runtime majors](https://github.com/pascalinthecloud/terrastrata/pull/9) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
-- [ci: release workflow — multi-arch GHCR image, SBOM, provenance, cosign](https://github.com/pascalinthecloud/terrastrata/pull/8) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org (2 days ago)
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (2 days ago)
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (2 days ago)
@@ -68,7 +69,6 @@
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (1 week ago)
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo? (2 weeks ago)
 - [akakraft-bs/workshop-online](https://github.com/akakraft-bs/workshop-online) - WebApp zur Verwaltung des Vereins inkl. Inventarsystem, Abrechnung und Termin Planung (1 month ago)
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

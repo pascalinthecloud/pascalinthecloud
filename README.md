@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) ([v8.0.0](https://github.com/ZPascal/keycloak-grafana-dashboard/releases/tag/v8.0.0), today) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.110.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.110.0), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.8](https://github.com/rustfs/console/releases/tag/v0.1.8), 6 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.14.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.14.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
@@ -35,7 +36,6 @@
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.5](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.5), 1 week ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v1.0.0](https://github.com/efemaer/terrawiz/releases/tag/v1.0.0), 3 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.6](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.6), 3 months ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
-- [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) ([v7.0.0](https://github.com/ZPascal/keycloak-grafana-dashboard/releases/tag/v7.0.0), 1 year ago) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics
 
 #### 🔨 My recent Pull Requests
 

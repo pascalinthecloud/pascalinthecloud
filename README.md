@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 week ago)
+- [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (today)
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics (1 week ago)
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 week ago)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (2 weeks ago)
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (3 weeks ago)
 - [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (4 months ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (4 months ago)
 - [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (4 months ago)
-- [pascalinthecloud/gimme-that-iso](https://github.com/pascalinthecloud/gimme-that-iso) - Automatically grabs the latest Linux ISOs so you don’t have to. (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), today) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.10](https://github.com/rustfs/console/releases/tag/v0.1.10), 5 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.15.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.15.0), 5 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.53.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.53.0), 1 week ago) - Terraform provider for Unifi :satellite:

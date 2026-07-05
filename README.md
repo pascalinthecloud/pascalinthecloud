@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.54.1](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.54.1), today) - Terraform provider for Unifi :satellite:
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.111.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.111.1), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.12](https://github.com/rustfs/console/releases/tag/v0.1.12), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.54.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.54.0), 3 days ago) - Terraform provider for Unifi :satellite:
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), 4 days ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.15.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.15.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) ([v8.0.0](https://github.com/ZPascal/keycloak-grafana-dashboard/releases/tag/v8.0.0), 2 weeks ago) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics

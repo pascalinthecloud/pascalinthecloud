@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (1 week ago)
+- [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (2 weeks ago)
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics (3 weeks ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (3 weeks ago)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (4 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.13](https://github.com/rustfs/console/releases/tag/v0.1.13), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.55.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.55.0), 4 days ago) - Terraform provider for Unifi :satellite:
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.16.1](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.16.1), 6 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.13](https://github.com/rustfs/console/releases/tag/v0.1.13), 4 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.55.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.55.0), 5 days ago) - Terraform provider for Unifi :satellite:
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.16.1](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.16.1), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.111.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.111.1), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
-- [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), 1 week ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
+- [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), 2 weeks ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) ([v8.0.0](https://github.com/ZPascal/keycloak-grafana-dashboard/releases/tag/v8.0.0), 3 weeks ago) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.2.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.2.0), 1 month ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.5](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.5), 1 month ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
@@ -45,7 +45,7 @@
 - [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/pascalinthecloud/terraform-provider-ovh/pull/1) on [pascalinthecloud/terraform-provider-ovh](https://github.com/pascalinthecloud/terraform-provider-ovh) (3 weeks ago)
 - [fix: replace base_thread_count with jvm_threads_live_threads for Keycloak 26&#43;](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/12) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (3 weeks ago)
 - [fix(observ): widen latency histogram buckets for slow zip fetches](https://github.com/pascalinthecloud/terrastrata/pull/17) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 weeks ago)
-- [feat(local): docker-compose observability stack (Prometheus &#43; Grafana)](https://github.com/pascalinthecloud/terrastrata/pull/16) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 weeks ago)
+- [feat(local): docker-compose observability stack (Prometheus &#43; Grafana)](https://github.com/pascalinthecloud/terrastrata/pull/16) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [chore(release): land v0.2.0 prep &#43; cosign fix on main](https://github.com/pascalinthecloud/terrastrata/pull/15) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [chore(release): prep v0.2.0](https://github.com/pascalinthecloud/terrastrata/pull/13) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [docs: open-source hygiene (CoC, changelog, templates, dependabot)](https://github.com/pascalinthecloud/terrastrata/pull/12) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
@@ -62,15 +62,15 @@
 
 #### ⭐ Recent Stars
 
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (6 days ago)
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase. (1 week ago)
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit (2 weeks ago)
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (2 weeks ago)
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-view compression, click-through runbooks, PR diff bot. Vision self-check, 10,000&#43; shapes. Exports PNG/SVG/PDF/JPG. (3 weeks ago)
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (3 weeks ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org (3 weeks ago)
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (3 weeks ago)
-- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (3 weeks ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org (4 weeks ago)
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (4 weeks ago)
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (4 weeks ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 weeks ago)
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers

@@ -54,11 +54,11 @@
 
 #### 📓 Gists I wrote
 
+- [vSphere Snapshot via RestAPI](https://gist.github.com/ef867b66302a032b28d0a0f9c7bca78b) (today)
+- [vSphere Snapshot via pyvmomi](https://gist.github.com/f719f47bb986f6d565bee85f41bb75cd) (today)
 - [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (1 year ago)
 - [Google Photos Takeout - restore metadata out of json files](https://gist.github.com/00b330a0c14870c8afac2fa3bbfe8d73) (3 years ago)
 - [bumpme](https://gist.github.com/05998247f972db336d6fc804c3887c3c) (3 years ago)
-- [](https://gist.github.com/50355ebb1b1f76fd8d2ea2eade1f7890) (3 years ago)
-- [](https://gist.github.com/a8fcff7910ce668f434bf94bd1b57b34) (4 years ago)
 
 #### ⭐ Recent Stars
 

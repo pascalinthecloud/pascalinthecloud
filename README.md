@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (5 days ago)
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (6 days ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (4 weeks ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 month ago)
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics (1 month ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.18.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.18.0), 2 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.3.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.3.0), 5 days ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.17](https://github.com/rustfs/console/releases/tag/v0.1.17), 6 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.18.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.18.0), 3 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.3.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.3.0), 6 days ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.17](https://github.com/rustfs/console/releases/tag/v0.1.17), 1 week ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.55.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.55.0), 2 weeks ago) - Terraform provider for Unifi :satellite:
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.111.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.111.1), 3 weeks ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), 4 weeks ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: Terraform E2E test &#43; signed OCI Helm chart publishing](https://github.com/pascalinthecloud/terrastrata/pull/26) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (5 days ago)
-- [Chore/pre oss hardening](https://github.com/pascalinthecloud/terrastrata/pull/24) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (5 days ago)
+- [ci: Terraform E2E test &#43; signed OCI Helm chart publishing](https://github.com/pascalinthecloud/terrastrata/pull/26) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
+- [Chore/pre oss hardening](https://github.com/pascalinthecloud/terrastrata/pull/24) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (6 days ago)
 - [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/ovh/terraform-provider-ovh/pull/1353) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/pascalinthecloud/terraform-provider-ovh/pull/1) on [pascalinthecloud/terraform-provider-ovh](https://github.com/pascalinthecloud/terraform-provider-ovh) (1 month ago)
 - [fix: replace base_thread_count with jvm_threads_live_threads for Keycloak 26&#43;](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/12) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (1 month ago)
@@ -54,18 +54,18 @@
 
 #### 📓 Gists I wrote
 
-- [vSphere Snapshot via RestAPI](https://gist.github.com/ef867b66302a032b28d0a0f9c7bca78b) (6 days ago)
-- [vSphere Snapshot via pyvmomi](https://gist.github.com/f719f47bb986f6d565bee85f41bb75cd) (6 days ago)
+- [vSphere Snapshot via RestAPI](https://gist.github.com/ef867b66302a032b28d0a0f9c7bca78b) (1 week ago)
+- [vSphere Snapshot via pyvmomi](https://gist.github.com/f719f47bb986f6d565bee85f41bb75cd) (1 week ago)
 - [Change author of all git commits](https://gist.github.com/3dffbafd65d64dad546d0772d18690e0) (1 year ago)
 - [Google Photos Takeout - restore metadata out of json files](https://gist.github.com/00b330a0c14870c8afac2fa3bbfe8d73) (3 years ago)
 - [bumpme](https://gist.github.com/05998247f972db336d6fc804c3887c3c) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 day ago)
-- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (3 days ago)
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active (5 days ago)
-- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (5 days ago)
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 days ago)
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (4 days ago)
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active (6 days ago)
+- [percona/percona-server-mongodb-operator](https://github.com/percona/percona-server-mongodb-operator) - Percona Operator for MongoDB (6 days ago)
 - [wazuh/wazuh-kubernetes](https://github.com/wazuh/wazuh-kubernetes) - Wazuh - Wazuh Kubernetes (1 week ago)
 - [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) - Zoo Code gives you a whole dev team of AI agents in your code editor. (1 week ago)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. (1 week ago)

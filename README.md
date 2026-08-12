@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (today)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 week ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (1 month ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 month ago)
@@ -11,7 +12,6 @@
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (3 months ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (5 months ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (5 months ago)
-- [rustfs/console](https://github.com/rustfs/console) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui. (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), 1 month ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) ([v8.0.0](https://github.com/ZPascal/keycloak-grafana-dashboard/releases/tag/v8.0.0), 1 month ago) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.5](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.5), 2 months ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
+- [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.0](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.0), 2 months ago) - Terraform Provider for VMware NSX
 - [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v1.0.0](https://github.com/efemaer/terrawiz/releases/tag/v1.0.0), 5 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.6](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.6), 5 months ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 
 #### 🔨 My recent Pull Requests
 

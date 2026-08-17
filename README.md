@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (4 days ago)
+- [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (5 days ago)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 week ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (1 month ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.21](https://github.com/rustfs/console/releases/tag/v0.1.21), 2 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.21](https://github.com/rustfs/console/releases/tag/v0.1.21), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.19.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.19.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.5.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.5.0), 1 week ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.55.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.55.0), 1 month ago) - Terraform provider for Unifi :satellite:
@@ -49,7 +49,7 @@
 - [Chore/pre oss hardening](https://github.com/pascalinthecloud/terrastrata/pull/24) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
 - [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/ovh/terraform-provider-ovh/pull/1353) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 month ago)
 - [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/pascalinthecloud/terraform-provider-ovh/pull/1) on [pascalinthecloud/terraform-provider-ovh](https://github.com/pascalinthecloud/terraform-provider-ovh) (1 month ago)
-- [fix: replace base_thread_count with jvm_threads_live_threads for Keycloak 26&#43;](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/12) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (1 month ago)
+- [fix: replace base_thread_count with jvm_threads_live_threads for Keycloak 26&#43;](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/12) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (2 months ago)
 - [fix(observ): widen latency histogram buckets for slow zip fetches](https://github.com/pascalinthecloud/terrastrata/pull/17) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 months ago)
 
 #### 📓 Gists I wrote
@@ -62,15 +62,15 @@
 
 #### ⭐ Recent Stars
 
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (6 days ago)
-- [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams. (6 days ago)
-- [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.     (6 days ago)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (6 days ago)
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (1 week ago)
+- [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams. (1 week ago)
+- [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.     (1 week ago)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML &#43; SVG. No shadows, no Mermaid-slop. (1 week ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 week ago)
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins (1 week ago)
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (1 week ago)
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices (1 week ago)
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples (1 week ago)
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples (2 weeks ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 weeks ago)
 
 #### 👯 Check out some of my recent followers

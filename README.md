@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.23](https://github.com/rustfs/console/releases/tag/v0.1.23), 1 day ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.19.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.19.0), 2 weeks ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.23](https://github.com/rustfs/console/releases/tag/v0.1.23), 2 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.19.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.19.0), 3 weeks ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.5.0](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.5.0), 3 weeks ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.55.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.55.0), 1 month ago) - Terraform provider for Unifi :satellite:
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.111.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.111.1), 1 month ago) - Terraform / OpenTofu Provider for Proxmox VE
@@ -44,7 +44,7 @@
 - [docs: state OpenTofu support and make the chart listable](https://github.com/pascalinthecloud/terrastrata/pull/34) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
 - [feat(mirror): mirror several registries from one deployment](https://github.com/pascalinthecloud/terrastrata/pull/33) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
 - [feat(modules): optional Terraform module registry with pull-through caching](https://github.com/pascalinthecloud/terrastrata/pull/32) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
-- [feat(chart): optional ServiceMonitor for operator-based scraping](https://github.com/pascalinthecloud/terrastrata/pull/31) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
+- [feat(chart): optional ServiceMonitor for operator-based scraping](https://github.com/pascalinthecloud/terrastrata/pull/31) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 weeks ago)
 - [ci: Terraform E2E test &#43; signed OCI Helm chart publishing](https://github.com/pascalinthecloud/terrastrata/pull/26) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [Chore/pre oss hardening](https://github.com/pascalinthecloud/terrastrata/pull/24) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/ovh/terraform-provider-ovh/pull/1353) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
@@ -66,8 +66,8 @@
 - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams. (2 weeks ago)
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.     (2 weeks ago)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (2 weeks ago)
-- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (2 weeks ago)
-- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins (2 weeks ago)
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (3 weeks ago)
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins (3 weeks ago)
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (3 weeks ago)
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices (3 weeks ago)
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples (3 weeks ago)

@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.5.1](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.5.1), today) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.5.3](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.5.3), today) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.25](https://github.com/rustfs/console/releases/tag/v0.1.25), 2 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.19.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.19.0), 3 weeks ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.55.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.55.0), 1 month ago) - Terraform provider for Unifi :satellite:
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(cache): verify provider archives read back from the durable layer](https://github.com/pascalinthecloud/terrastrata/pull/51) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
+- [chore: add a logo, use it as chart icon and site favicon](https://github.com/pascalinthecloud/terrastrata/pull/47) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
+- [docs: add an Astro/Starlight documentation site published to Pages](https://github.com/pascalinthecloud/terrastrata/pull/45) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
+- [ci: publish bills of material and widen dependency scanning](https://github.com/pascalinthecloud/terrastrata/pull/44) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [ci: publish bills of material and widen dependency scanning](https://github.com/pascalinthecloud/terrastrata/pull/43) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [test(e2e): cover the authenticated module path with a real client](https://github.com/pascalinthecloud/terrastrata/pull/41) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [feat: Add ovh_dedicated_cloud_user and ovh_dedicated_cloud_user_object_right](https://github.com/ovh/terraform-provider-ovh/pull/1418) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (today)
 - [fix(modules): sign archive URLs and validate archive link targets](https://github.com/pascalinthecloud/terrastrata/pull/40) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [docs: state OpenTofu support and make the chart listable](https://github.com/pascalinthecloud/terrastrata/pull/34) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [feat(mirror): mirror several registries from one deployment](https://github.com/pascalinthecloud/terrastrata/pull/33) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
-- [feat(modules): optional Terraform module registry with pull-through caching](https://github.com/pascalinthecloud/terrastrata/pull/32) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
-- [feat(chart): optional ServiceMonitor for operator-based scraping](https://github.com/pascalinthecloud/terrastrata/pull/31) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
-- [ci: Terraform E2E test &#43; signed OCI Helm chart publishing](https://github.com/pascalinthecloud/terrastrata/pull/26) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
-- [Chore/pre oss hardening](https://github.com/pascalinthecloud/terrastrata/pull/24) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 
 #### 📓 Gists I wrote
 

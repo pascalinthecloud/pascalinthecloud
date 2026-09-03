@@ -41,6 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: publish bills of material and widen dependency scanning](https://github.com/pascalinthecloud/terrastrata/pull/43) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
+- [test(e2e): cover the authenticated module path with a real client](https://github.com/pascalinthecloud/terrastrata/pull/41) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
+- [feat: Add ovh_dedicated_cloud_user and ovh_dedicated_cloud_user_object_right](https://github.com/ovh/terraform-provider-ovh/pull/1418) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (today)
 - [fix(modules): sign archive URLs and validate archive link targets](https://github.com/pascalinthecloud/terrastrata/pull/40) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [docs: state OpenTofu support and make the chart listable](https://github.com/pascalinthecloud/terrastrata/pull/34) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [feat(mirror): mirror several registries from one deployment](https://github.com/pascalinthecloud/terrastrata/pull/33) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
@@ -48,9 +51,6 @@
 - [feat(chart): optional ServiceMonitor for operator-based scraping](https://github.com/pascalinthecloud/terrastrata/pull/31) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [ci: Terraform E2E test &#43; signed OCI Helm chart publishing](https://github.com/pascalinthecloud/terrastrata/pull/26) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 - [Chore/pre oss hardening](https://github.com/pascalinthecloud/terrastrata/pull/24) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
-- [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/ovh/terraform-provider-ovh/pull/1353) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (2 months ago)
-- [fix(docs): correct URN resource type in iam_resource_tags examples](https://github.com/pascalinthecloud/terraform-provider-ovh/pull/1) on [pascalinthecloud/terraform-provider-ovh](https://github.com/pascalinthecloud/terraform-provider-ovh) (2 months ago)
-- [fix: replace base_thread_count with jvm_threads_live_threads for Keycloak 26&#43;](https://github.com/ZPascal/keycloak-grafana-dashboard/pull/12) on [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) (2 months ago)
 
 #### 📓 Gists I wrote
 

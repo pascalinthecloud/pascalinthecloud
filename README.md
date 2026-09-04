@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(modules): discover the module API path instead of assuming it](https://github.com/pascalinthecloud/terrastrata/pull/55) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [chore(local): surface durable-layer integrity on the dashboard](https://github.com/pascalinthecloud/terrastrata/pull/54) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [fix(cache): verify provider archives read back from the durable layer](https://github.com/pascalinthecloud/terrastrata/pull/51) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [chore: add a logo, use it as chart icon and site favicon](https://github.com/pascalinthecloud/terrastrata/pull/47) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
@@ -50,7 +51,6 @@
 - [test(e2e): cover the authenticated module path with a real client](https://github.com/pascalinthecloud/terrastrata/pull/41) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [feat: Add ovh_dedicated_cloud_user and ovh_dedicated_cloud_user_object_right](https://github.com/ovh/terraform-provider-ovh/pull/1418) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 day ago)
 - [fix(modules): sign archive URLs and validate archive link targets](https://github.com/pascalinthecloud/terrastrata/pull/40) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
-- [docs: state OpenTofu support and make the chart listable](https://github.com/pascalinthecloud/terrastrata/pull/34) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [anthonyroussel](https://github.com/anthonyroussel)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [ipqwery](https://github.com/ipqwery)
 - [msreasonxx-oss](https://github.com/msreasonxx-oss)
-- [ghaering](https://github.com/ghaering)
 
 #### 💬 Feedback
 

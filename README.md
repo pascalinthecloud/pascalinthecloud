@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [anthonyroussel](https://github.com/anthonyroussel)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [ipqwery](https://github.com/ipqwery)
-- [msreasonxx-oss](https://github.com/msreasonxx-oss)
 
 #### 💬 Feedback
 

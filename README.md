@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (today)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 week ago)
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (1 month ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (2 months ago)
@@ -11,7 +12,6 @@
 - [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) -  (4 months ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (4 months ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (6 months ago)
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.7](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.7), today) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.1](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.1), 2 days ago) - Terraform Provider for VMware NSX
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.113.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.113.1), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.26](https://github.com/rustfs/console/releases/tag/v0.1.26), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
@@ -37,10 +38,10 @@
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), 2 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) ([v8.0.0](https://github.com/ZPascal/keycloak-grafana-dashboard/releases/tag/v8.0.0), 2 months ago) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.5](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.5), 3 months ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
-- [efemaer/terrawiz](https://github.com/efemaer/terrawiz) ([v1.0.0](https://github.com/efemaer/terrawiz/releases/tag/v1.0.0), 6 months ago) - 🧙‍♂️ Terrawiz - A blazing-fast open-source CLI tool for discovering and analyzing Terraform modules across multiple platforms.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cluster): cap WAL retained for inactive replication slots](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/12) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (today)
 - [fix(modules): discover the module API path instead of assuming it](https://github.com/pascalinthecloud/terrastrata/pull/55) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [chore(local): surface durable-layer integrity on the dashboard](https://github.com/pascalinthecloud/terrastrata/pull/54) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [fix(cache): verify provider archives read back from the durable layer](https://github.com/pascalinthecloud/terrastrata/pull/51) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
@@ -50,7 +51,6 @@
 - [ci: publish bills of material and widen dependency scanning](https://github.com/pascalinthecloud/terrastrata/pull/43) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [test(e2e): cover the authenticated module path with a real client](https://github.com/pascalinthecloud/terrastrata/pull/41) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [feat: Add ovh_dedicated_cloud_user and ovh_dedicated_cloud_user_object_right](https://github.com/ovh/terraform-provider-ovh/pull/1418) on [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) (1 week ago)
-- [fix(modules): sign archive URLs and validate archive link targets](https://github.com/pascalinthecloud/terrastrata/pull/40) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 
 #### 📓 Gists I wrote
 

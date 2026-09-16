@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.27](https://github.com/rustfs/console/releases/tag/v0.1.27), 1 day ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.28](https://github.com/rustfs/console/releases/tag/v0.1.28), today) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.0.7](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.0.7), 3 days ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.1](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.1), 5 days ago) - Terraform Provider for VMware NSX
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.113.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.113.1), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE

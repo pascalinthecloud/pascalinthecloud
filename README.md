@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add iOS App Intents for VPN connect/disconnect/status (Shortcuts &#43; Siri)](https://github.com/fosrl/apple/pull/64) on [fosrl/apple](https://github.com/fosrl/apple) (today)
 - [fix: omit spec.backup/plugins instead of setting them to null](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/14) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 days ago)
 - [feat: support the Barman Cloud Plugin for backups](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/13) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 days ago)
 - [feat(cluster): cap WAL retained for inactive replication slots](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/12) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
@@ -50,7 +51,6 @@
 - [chore: add a logo, use it as chart icon and site favicon](https://github.com/pascalinthecloud/terrastrata/pull/47) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 weeks ago)
 - [docs: add an Astro/Starlight documentation site published to Pages](https://github.com/pascalinthecloud/terrastrata/pull/45) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 weeks ago)
 - [ci: publish bills of material and widen dependency scanning](https://github.com/pascalinthecloud/terrastrata/pull/44) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 weeks ago)
-- [ci: publish bills of material and widen dependency scanning](https://github.com/pascalinthecloud/terrastrata/pull/43) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (2 weeks ago)
 
 #### 📓 Gists I wrote
 

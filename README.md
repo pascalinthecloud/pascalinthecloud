@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.32](https://github.com/rustfs/console/releases/tag/v0.1.32), today) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.114.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.114.0), today) - Terraform / OpenTofu Provider for Proxmox VE
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.31](https://github.com/rustfs/console/releases/tag/v0.1.31), today) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.1.1](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.1.1), 3 days ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.20.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.20.0), 3 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.1](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.1), 1 week ago) - Terraform Provider for VMware NSX

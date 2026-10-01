@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (today)
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 day ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 week ago)
 - [fosrl/apple](https://github.com/fosrl/apple) - Pangolin client for Apple devices (1 week ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (1 week ago)
@@ -11,7 +11,7 @@
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (3 months ago)
 - [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics (3 months ago)
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (3 months ago)
-- [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) -  (4 months ago)
+- [pascalinthecloud/taxitellerkarteios](https://github.com/pascalinthecloud/taxitellerkarteios) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.34](https://github.com/rustfs/console/releases/tag/v0.1.34), today) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
-- [fosrl/apple](https://github.com/fosrl/apple) ([mac-0.12.0](https://github.com/fosrl/apple/releases/tag/mac-0.12.0), 1 day ago) - Pangolin client for Apple devices
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.57.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.57.0), 1 day ago) - Terraform provider for Unifi :satellite:
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.21.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.21.0), 6 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.34](https://github.com/rustfs/console/releases/tag/v0.1.34), 1 day ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [fosrl/apple](https://github.com/fosrl/apple) ([mac-0.12.0](https://github.com/fosrl/apple/releases/tag/mac-0.12.0), 2 days ago) - Pangolin client for Apple devices
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.57.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.57.0), 2 days ago) - Terraform provider for Unifi :satellite:
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.21.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.21.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.6](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.6), 1 week ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.114.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.114.0), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.1.1](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.1.1), 1 week ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.1](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.1), 2 weeks ago) - Terraform Provider for VMware NSX
-- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.5.3](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.5.3), 3 weeks ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
+- [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.5.3](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.5.3), 4 weeks ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.5.1](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.5.1), 3 months ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 
 #### 🔨 My recent Pull Requests
@@ -48,9 +48,9 @@
 - [feat(cluster): cap WAL retained for inactive replication slots](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/12) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 weeks ago)
 - [fix(modules): discover the module API path instead of assuming it](https://github.com/pascalinthecloud/terrastrata/pull/55) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
 - [chore(local): surface durable-layer integrity on the dashboard](https://github.com/pascalinthecloud/terrastrata/pull/54) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
-- [fix(cache): verify provider archives read back from the durable layer](https://github.com/pascalinthecloud/terrastrata/pull/51) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
-- [chore: add a logo, use it as chart icon and site favicon](https://github.com/pascalinthecloud/terrastrata/pull/47) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
-- [docs: add an Astro/Starlight documentation site published to Pages](https://github.com/pascalinthecloud/terrastrata/pull/45) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 weeks ago)
+- [fix(cache): verify provider archives read back from the durable layer](https://github.com/pascalinthecloud/terrastrata/pull/51) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 weeks ago)
+- [chore: add a logo, use it as chart icon and site favicon](https://github.com/pascalinthecloud/terrastrata/pull/47) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 weeks ago)
+- [docs: add an Astro/Starlight documentation site published to Pages](https://github.com/pascalinthecloud/terrastrata/pull/45) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (1 day ago)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 days ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (1 month ago)
 - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams. (1 month ago)
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.     (1 month ago)

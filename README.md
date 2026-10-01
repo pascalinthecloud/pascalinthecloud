@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [fosrl/apple](https://github.com/fosrl/apple) ([mac-0.12.1](https://github.com/fosrl/apple/releases/tag/mac-0.12.1), today) - Pangolin client for Apple devices
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.34](https://github.com/rustfs/console/releases/tag/v0.1.34), 1 day ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
-- [fosrl/apple](https://github.com/fosrl/apple) ([mac-0.12.0](https://github.com/fosrl/apple/releases/tag/mac-0.12.0), 2 days ago) - Pangolin client for Apple devices
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.57.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.57.0), 2 days ago) - Terraform provider for Unifi :satellite:
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.21.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.21.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.6](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.6), 1 week ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.

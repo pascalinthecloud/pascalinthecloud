@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.58.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.58.0), today) - Terraform provider for Unifi :satellite:
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.59.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.59.0), today) - Terraform provider for Unifi :satellite:
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.115.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.115.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [fosrl/apple](https://github.com/fosrl/apple) ([ios-0.11.1](https://github.com/fosrl/apple/releases/tag/ios-0.11.1), 1 day ago) - Pangolin client for Apple devices
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.22.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.22.0), 1 day ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.

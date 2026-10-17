@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.36](https://github.com/rustfs/console/releases/tag/v0.1.36), 2 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.37](https://github.com/rustfs/console/releases/tag/v0.1.37), today) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.8](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.8), 2 days ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.116.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.116.1), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.60.0-beta.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.60.0-beta.0), 1 week ago) - Terraform provider for Unifi :satellite:

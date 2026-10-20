@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (4 days ago)
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (5 days ago)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (2 weeks ago)
-- [fosrl/apple](https://github.com/fosrl/apple) - Pangolin client for Apple devices (4 weeks ago)
+- [fosrl/apple](https://github.com/fosrl/apple) - Pangolin client for Apple devices (1 month ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (1 month ago)
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (2 months ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (3 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.117.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.117.0), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.37](https://github.com/rustfs/console/releases/tag/v0.1.37), 2 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.8](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.8), 4 days ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.117.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.117.0), 3 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.37](https://github.com/rustfs/console/releases/tag/v0.1.37), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) &#43; React 19 &#43; TypeScript &#43; Tailwind CSS v4 &#43; shadcn/ui.
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.8](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.8), 5 days ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.60.0-beta.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.60.0-beta.0), 1 week ago) - Terraform provider for Unifi :satellite:
 - [fosrl/apple](https://github.com/fosrl/apple) ([ios-0.11.1](https://github.com/fosrl/apple/releases/tag/ios-0.11.1), 2 weeks ago) - Pangolin client for Apple devices
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.22.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.22.0), 2 weeks ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
@@ -41,10 +41,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: pin the Talos config contract of generated machine configs](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/104) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 days ago)
-- [feat: configurable disk cache mode and provider auto-reboot](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/103) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
+- [feat: pin the Talos config contract of generated machine configs](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/104) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (5 days ago)
+- [feat: configurable disk cache mode and provider auto-reboot](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/103) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 days ago)
 - [feat: make the QEMU machine type configurable](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/101) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 weeks ago)
-- [Add iOS App Intents for VPN connect/disconnect/status (Shortcuts &#43; Siri)](https://github.com/fosrl/apple/pull/64) on [fosrl/apple](https://github.com/fosrl/apple) (4 weeks ago)
+- [Add iOS App Intents for VPN connect/disconnect/status (Shortcuts &#43; Siri)](https://github.com/fosrl/apple/pull/64) on [fosrl/apple](https://github.com/fosrl/apple) (1 month ago)
 - [fix: omit spec.backup/plugins instead of setting them to null](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/14) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
 - [feat: support the Barman Cloud Plugin for backups](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/13) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
 - [feat(cluster): cap WAL retained for inactive replication slots](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/12) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
@@ -62,15 +62,15 @@
 
 #### ⭐ Recent Stars
 
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (2 days ago)
-- [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client (2 days ago)
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable. (4 days ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (4 days ago)
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers. (4 days ago)
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 days ago)
+- [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client (3 days ago)
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable. (5 days ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (5 days ago)
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers. (5 days ago)
 - [harman-f/mhi2_altscreen_carplay](https://github.com/harman-f/mhi2_altscreen_carplay) - Open research for CarPlay AltScreen/Auxiliary Screen navigation in MQB Virtual Cockpit on VW Group MHI2 — Škoda first, SEAT/VW planned. (1 week ago)
-- [ahouab/argo9s](https://github.com/ahouab/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time (1 week ago)
+- [ahouab/argo9s](https://github.com/ahouab/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time (2 weeks ago)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (2 weeks ago)
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 weeks ago)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (3 weeks ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 months ago)
 
 #### 👯 Check out some of my recent followers

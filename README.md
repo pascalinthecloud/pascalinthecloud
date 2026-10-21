@@ -62,6 +62,7 @@
 
 #### ⭐ Recent Stars
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (today)
 - [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) -  (today)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (4 days ago)
 - [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client (4 days ago)
@@ -71,7 +72,6 @@
 - [harman-f/mhi2_altscreen_carplay](https://github.com/harman-f/mhi2_altscreen_carplay) - Open research for CarPlay AltScreen/Auxiliary Screen navigation in MQB Virtual Cockpit on VW Group MHI2 — Škoda first, SEAT/VW planned. (2 weeks ago)
 - [ahouab/argo9s](https://github.com/ahouab/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time (2 weeks ago)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (2 weeks ago)
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

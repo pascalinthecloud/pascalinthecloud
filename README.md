@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add github_repository_immutable_releases resource](https://github.com/integrations/terraform-provider-github/pull/3701) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (today)
 - [fix: ignore cloud-init (initialization) changes on running nodes](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/105) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 day ago)
 - [feat: optional switchover_delay (spec.switchoverDelay)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/15) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 day ago)
 - [feat: pin the Talos config contract of generated machine configs](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/104) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
@@ -50,7 +51,6 @@
 - [fix: omit spec.backup/plugins instead of setting them to null](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/14) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
 - [feat: support the Barman Cloud Plugin for backups](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/13) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
 - [feat(cluster): cap WAL retained for inactive replication slots](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/12) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
-- [fix(modules): discover the module API path instead of assuming it](https://github.com/pascalinthecloud/terrastrata/pull/55) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 month ago)
 
 #### 📓 Gists I wrote
 

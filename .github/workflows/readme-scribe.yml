@@ -2,29 +2,32 @@ name: Update README
 
 on:
   push:
+    branches: [main]
+  workflow_dispatch: {}
   schedule:
     - cron: "0 */1 * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # commit the regenerated README.md
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - uses: muesli/readme-scribe@master
+      # markscribe built from source at a pinned commit (verified against the Go
+      # checksum database) instead of muesli/readme-scribe, which pulls the
+      # unpinned image fribbledom/markscribe:latest and runs it with the PAT.
+      - name: Render README.md
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+        run: go run github.com/muesli/markscribe@d838b6e71dc673e8a3ef248b0e75fbd44ce8cc4c -write README.md templates/README.md.tpl
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+      - name: Commit README.md if it changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "readme-scribe 🤖"
+          git config user.email "actions@github.com"
+          git commit -m "Update generated README" README.md
+          git push

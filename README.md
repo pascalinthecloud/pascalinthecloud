@@ -2,7 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 day ago)
+- [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) - Simple tool collecting fio results from multiple servers running on docker. (today)
+- [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) - Repository for hosting the content of sicherge.cloud on GitHub Pages (today)
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (today)
 - [pascalinthecloud/.github](https://github.com/pascalinthecloud/.github) - Default community health files (SECURITY.md) for all public repos of pascalinthecloud. (2 days ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (3 days ago)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (3 weeks ago)
@@ -10,8 +12,6 @@
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) - Terraform Provider for VMware NSX (2 months ago)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (3 months ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (4 months ago)
-- [ZPascal/keycloak-grafana-dashboard](https://github.com/ZPascal/keycloak-grafana-dashboard) - Includes a KeyCloak Grafana dashboard to display the Quarkus MicroProfile metrics (4 months ago)
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: upgrade to astro 7](https://github.com/pascalinthecloud/sicherge.cloud/pull/7) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (today)
+- [chore(docs): upgrade to astro 7 and starlight 0.42](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/109) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
+- [chore(deps): update dependency sharp to ^0.35.0 [security]](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/107) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
+- [chore(deps): update dependency @astrojs/rss to v4.0.19 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/5) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (today)
+- [chore(deps): update dependency flask to v3.1.3 [security]](https://github.com/pascalinthecloud/FioDash/pull/1) on [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) (today)
 - [fix(ci): stop running the docs job on pull_request_target](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/106) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 day ago)
 - [feat: add github_repository_immutable_releases resource](https://github.com/integrations/terraform-provider-github/pull/3701) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (2 days ago)
 - [fix: ignore cloud-init (initialization) changes on running nodes](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/105) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (3 days ago)
 - [feat: optional switchover_delay (spec.switchoverDelay)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/15) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (3 days ago)
 - [feat: pin the Talos config contract of generated machine configs](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/104) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
-- [feat: configurable disk cache mode and provider auto-reboot](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/103) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
-- [feat: make the QEMU machine type configurable](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/101) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 month ago)
-- [Add iOS App Intents for VPN connect/disconnect/status (Shortcuts + Siri)](https://github.com/fosrl/apple/pull/64) on [fosrl/apple](https://github.com/fosrl/apple) (1 month ago)
-- [fix: omit spec.backup/plugins instead of setting them to null](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/14) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
-- [feat: support the Barman Cloud Plugin for backups](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/13) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 month ago)
 
 #### 📓 Gists I wrote
 

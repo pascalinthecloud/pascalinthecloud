@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fosrl/apple](https://github.com/fosrl/apple) ([mac-0.12.2](https://github.com/fosrl/apple/releases/tag/mac-0.12.2), today) - Pangolin client for Apple devices
+- [fosrl/apple](https://github.com/fosrl/apple) ([ios-0.12.0](https://github.com/fosrl/apple/releases/tag/ios-0.12.0), today) - Pangolin client for Apple devices
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.118.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.118.1), today) - Terraform / OpenTofu Provider for Proxmox VE
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.60.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.60.0), 1 day ago) - Terraform provider for Unifi :satellite:
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.1.2](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.1.2), 4 days ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.

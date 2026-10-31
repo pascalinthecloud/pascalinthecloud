@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.61.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.61.0), today) - Terraform provider for Unifi :satellite:
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.64.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.64.0), today) - Terraform provider for Unifi :satellite:
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.24.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.24.0), 2 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.119.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.119.0), 2 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.38](https://github.com/rustfs/console/releases/tag/v0.1.38), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.

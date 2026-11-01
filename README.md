@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency satori to ^0.33.0 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/8) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (today)
 - [chore: upgrade to astro 7](https://github.com/pascalinthecloud/sicherge.cloud/pull/7) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (6 days ago)
 - [chore(docs): upgrade to astro 7 and starlight 0.42](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/109) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 days ago)
 - [chore(deps): update dependency sharp to ^0.35.0 [security]](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/107) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (6 days ago)
@@ -50,7 +51,6 @@
 - [feat: add github_repository_immutable_releases resource](https://github.com/integrations/terraform-provider-github/pull/3701) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (1 week ago)
 - [fix: ignore cloud-init (initialization) changes on running nodes](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/105) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
 - [feat: optional switchover_delay (spec.switchoverDelay)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/15) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
-- [feat: pin the Talos config contract of generated machine configs](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/104) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 weeks ago)
 
 #### 📓 Gists I wrote
 

@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.120.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.120.0), today) - Terraform / OpenTofu Provider for Proxmox VE
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.65.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.65.0), 1 day ago) - Terraform provider for Unifi :satellite:
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.24.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.24.0), 4 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.38](https://github.com/rustfs/console/releases/tag/v0.1.38), 5 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.
-- [fosrl/apple](https://github.com/fosrl/apple) ([ios-0.12.0](https://github.com/fosrl/apple/releases/tag/ios-0.12.0), 6 days ago) - Pangolin client for Apple devices
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.120.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.120.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.65.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.65.0), 2 days ago) - Terraform provider for Unifi :satellite:
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.24.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.24.0), 5 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.38](https://github.com/rustfs/console/releases/tag/v0.1.38), 6 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.
+- [fosrl/apple](https://github.com/fosrl/apple) ([ios-0.12.0](https://github.com/fosrl/apple/releases/tag/ios-0.12.0), 1 week ago) - Pangolin client for Apple devices
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.1.2](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.1.2), 1 week ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.9](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.9), 1 week ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.1](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.1), 1 month ago) - Terraform Provider for VMware NSX
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): update dependency satori to ^0.33.0 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/8) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (1 day ago)
+- [chore(deps): update dependency satori to ^0.33.0 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/8) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (2 days ago)
 - [chore: upgrade to astro 7](https://github.com/pascalinthecloud/sicherge.cloud/pull/7) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (1 week ago)
 - [chore(docs): upgrade to astro 7 and starlight 0.42](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/109) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
 - [chore(deps): update dependency sharp to ^0.35.0 [security]](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/107) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (today)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (1 day ago)
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (1 week ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (1 week ago)
 - [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) -  (1 week ago)

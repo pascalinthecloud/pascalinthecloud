@@ -62,6 +62,8 @@
 
 #### ⭐ Recent Stars
 
+- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. (today)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (today)
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools. (today)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (5 days ago)
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (2 weeks ago)
@@ -70,8 +72,6 @@
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 weeks ago)
 - [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client (3 weeks ago)
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable. (3 weeks ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 weeks ago)
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

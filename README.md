@@ -62,6 +62,7 @@
 
 #### ⭐ Recent Stars
 
+- [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools. (today)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (5 days ago)
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (2 weeks ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (2 weeks ago)
@@ -71,7 +72,6 @@
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable. (3 weeks ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 weeks ago)
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers. (3 weeks ago)
-- [harman-f/mhi2_altscreen_carplay](https://github.com/harman-f/mhi2_altscreen_carplay) - Open research for CarPlay AltScreen/Auxiliary Screen navigation in MQB Virtual Cockpit on VW Group MHI2 — Škoda first, SEAT/VW planned. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 

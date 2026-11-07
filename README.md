@@ -5,7 +5,7 @@
 - [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) - Simple tool collecting fio results from multiple servers running on docker. (1 week ago)
 - [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) - Repository for hosting the content of sicherge.cloud on GitHub Pages (1 week ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 week ago)
-- [pascalinthecloud/.github](https://github.com/pascalinthecloud/.github) - Default community health files (SECURITY.md) for all public repos of pascalinthecloud. (1 week ago)
+- [pascalinthecloud/.github](https://github.com/pascalinthecloud/.github) - Default community health files (SECURITY.md) for all public repos of pascalinthecloud. (2 weeks ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (2 weeks ago)
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly. (2 weeks ago)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.120.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.120.0), 4 days ago) - Terraform / OpenTofu Provider for Proxmox VE
-- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.65.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.65.0), 5 days ago) - Terraform provider for Unifi :satellite:
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.120.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.120.0), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.65.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.65.0), 6 days ago) - Terraform provider for Unifi :satellite:
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.24.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.24.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.38](https://github.com/rustfs/console/releases/tag/v0.1.38), 1 week ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.
 - [fosrl/apple](https://github.com/fosrl/apple) ([ios-0.12.0](https://github.com/fosrl/apple/releases/tag/ios-0.12.0), 1 week ago) - Pangolin client for Apple devices
@@ -41,14 +41,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): update dependency satori to ^0.33.0 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/8) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (5 days ago)
+- [chore(deps): update dependency satori to ^0.33.0 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/8) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (6 days ago)
 - [chore: upgrade to astro 7](https://github.com/pascalinthecloud/sicherge.cloud/pull/7) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (1 week ago)
 - [chore(docs): upgrade to astro 7 and starlight 0.42](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/109) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
 - [chore(deps): update dependency sharp to ^0.35.0 [security]](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/107) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
 - [chore(deps): update dependency @astrojs/rss to v4.0.19 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/5) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (1 week ago)
 - [chore(deps): update dependency flask to v3.1.3 [security]](https://github.com/pascalinthecloud/FioDash/pull/1) on [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) (1 week ago)
 - [fix(ci): stop running the docs job on pull_request_target](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/106) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (1 week ago)
-- [feat: add github_repository_immutable_releases resource](https://github.com/integrations/terraform-provider-github/pull/3701) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (1 week ago)
+- [feat: add github_repository_immutable_releases resource](https://github.com/integrations/terraform-provider-github/pull/3701) on [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) (2 weeks ago)
 - [fix: ignore cloud-init (initialization) changes on running nodes](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/105) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 weeks ago)
 - [feat: optional switchover_delay (spec.switchoverDelay)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/15) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 weeks ago)
 
@@ -62,12 +62,12 @@
 
 #### ⭐ Recent Stars
 
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (4 days ago)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (5 days ago)
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (2 weeks ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (2 weeks ago)
 - [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) -  (2 weeks ago)
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (2 weeks ago)
-- [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client (2 weeks ago)
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 weeks ago)
+- [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client (3 weeks ago)
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable. (3 weeks ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 weeks ago)
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers. (3 weeks ago)

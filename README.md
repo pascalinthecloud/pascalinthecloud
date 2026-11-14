@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependency astro to v7.4.7 [security]](https://github.com/pascalinthecloud/terrastrata/pull/68) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (today)
 - [fix(recovery): target_immediate = false is not a recovery target](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/19) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 day ago)
 - [feat: bootstrap a cluster from an object store (restore/PITR)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/18) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 day ago)
 - [feat: optional image_name (spec.imageName)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/17) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (3 days ago)
@@ -50,7 +51,6 @@
 - [chore(docs): upgrade to astro 7 and starlight 0.42](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/109) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 weeks ago)
 - [chore(deps): update dependency sharp to ^0.35.0 [security]](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/107) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (2 weeks ago)
 - [chore(deps): update dependency @astrojs/rss to v4.0.19 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/5) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (2 weeks ago)
-- [chore(deps): update dependency flask to v3.1.3 [security]](https://github.com/pascalinthecloud/FioDash/pull/1) on [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) (2 weeks ago)
 
 #### 📓 Gists I wrote
 

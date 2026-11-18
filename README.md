@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.123.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.123.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.123.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.123.1), today) - Terraform / OpenTofu Provider for Proxmox VE
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.25.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.25.0), 5 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.2.1](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.2.1), 5 days ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.2](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.2), 5 days ago) - Terraform Provider for VMware NSX

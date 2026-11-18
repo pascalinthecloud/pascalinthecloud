@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (4 days ago)
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (5 days ago)
 - [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) - Simple tool collecting fio results from multiple servers running on docker. (3 weeks ago)
 - [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (3 weeks ago)
 - [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) - Repository for hosting the content of sicherge.cloud on GitHub Pages (3 weeks ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.25.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.25.0), 4 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
-- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.2.1](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.2.1), 4 days ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
-- [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.2](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.2), 4 days ago) - Terraform Provider for VMware NSX
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.122.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.122.0), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.123.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.123.0), 1 day ago) - Terraform / OpenTofu Provider for Proxmox VE
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.25.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.25.0), 5 days ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.2.1](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.2.1), 5 days ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
+- [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.2](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.2), 5 days ago) - Terraform Provider for VMware NSX
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.41](https://github.com/rustfs/console/releases/tag/v0.1.41), 1 week ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.65.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.65.0), 2 weeks ago) - Terraform provider for Unifi :satellite:
 - [fosrl/apple](https://github.com/fosrl/apple) ([ios-0.12.0](https://github.com/fosrl/apple/releases/tag/ios-0.12.0), 3 weeks ago) - Pangolin client for Apple devices
@@ -41,10 +41,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): update dependency astro to v7.4.7 [security]](https://github.com/pascalinthecloud/terrastrata/pull/68) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (3 days ago)
-- [fix(recovery): target_immediate = false is not a recovery target](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/19) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (4 days ago)
-- [feat: bootstrap a cluster from an object store (restore/PITR)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/18) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (4 days ago)
-- [feat: optional image_name (spec.imageName)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/17) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (6 days ago)
+- [chore(deps): update dependency astro to v7.4.7 [security]](https://github.com/pascalinthecloud/terrastrata/pull/68) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (4 days ago)
+- [fix(recovery): target_immediate = false is not a recovery target](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/19) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (5 days ago)
+- [feat: bootstrap a cluster from an object store (restore/PITR)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/18) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (5 days ago)
+- [feat: optional image_name (spec.imageName)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/17) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
 - [Report whole Proxmox VE clusters](https://github.com/IainKay/ram-altman/pull/4) on [IainKay/ram-altman](https://github.com/IainKay/ram-altman) (1 week ago)
 - [chore(deps): update dependency satori to ^0.33.0 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/8) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (2 weeks ago)
 - [chore: upgrade to astro 7](https://github.com/pascalinthecloud/sicherge.cloud/pull/7) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (3 weeks ago)
@@ -62,16 +62,16 @@
 
 #### ⭐ Recent Stars
 
-- [Brick-Force-Aurora/Brick-Force](https://github.com/Brick-Force-Aurora/Brick-Force) -  (3 days ago)
-- [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth) - A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, LOD streaming from a companion server (3 days ago)
+- [Brick-Force-Aurora/Brick-Force](https://github.com/Brick-Force-Aurora/Brick-Force) -  (4 days ago)
+- [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth) - A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, LOD streaming from a companion server (4 days ago)
 - [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm.  (1 week ago)
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools. (1 week ago)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (2 weeks ago)
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (3 weeks ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (3 weeks ago)
-- [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) -  (3 weeks ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (4 weeks ago)
+- [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) -  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

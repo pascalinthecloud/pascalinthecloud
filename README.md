@@ -62,6 +62,7 @@
 
 #### ⭐ Recent Stars
 
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (today)
 - [Brick-Force-Aurora/Brick-Force](https://github.com/Brick-Force-Aurora/Brick-Force) -  (5 days ago)
 - [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth) - A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, LOD streaming from a companion server (5 days ago)
 - [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm.  (1 week ago)
@@ -71,7 +72,6 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (2 weeks ago)
 - [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image. (3 weeks ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (4 weeks ago)
-- [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) -  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 

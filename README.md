@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [rustfs/console](https://github.com/rustfs/console) ([v0.1.42](https://github.com/rustfs/console/releases/tag/v0.1.42), 3 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.
+- [rustfs/console](https://github.com/rustfs/console) ([v0.1.43](https://github.com/rustfs/console/releases/tag/v0.1.43), today) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.
 - [fosrl/apple](https://github.com/fosrl/apple) ([mac-0.14.0](https://github.com/fosrl/apple/releases/tag/mac-0.14.0), 4 days ago) - Pangolin client for Apple devices
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.123.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.123.1), 5 days ago) - Terraform / OpenTofu Provider for Proxmox VE
 - [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.25.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.25.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.

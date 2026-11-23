@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: optional Healthchecks ping (chart 0.6.0)](https://github.com/pascalinthecloud/helm-paperless-s3-backup/pull/12) on [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) (today)
 - [chore(deps): update dependency astro to v7.4.7 [security]](https://github.com/pascalinthecloud/terrastrata/pull/68) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 week ago)
 - [fix(recovery): target_immediate = false is not a recovery target](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/19) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
 - [feat: bootstrap a cluster from an object store (restore/PITR)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/18) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (1 week ago)
@@ -50,7 +51,6 @@
 - [chore: upgrade to astro 7](https://github.com/pascalinthecloud/sicherge.cloud/pull/7) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (4 weeks ago)
 - [chore(docs): upgrade to astro 7 and starlight 0.42](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/109) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 weeks ago)
 - [chore(deps): update dependency sharp to ^0.35.0 [security]](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/107) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (4 weeks ago)
-- [chore(deps): update dependency @astrojs/rss to v4.0.19 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/5) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (4 weeks ago)
 
 #### 📓 Gists I wrote
 

@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (today)
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes. (1 day ago)
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use. (1 day ago)
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management. (1 week ago)
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management. (1 month ago)
 - [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) - Repository for hosting the content of sicherge.cloud on GitHub Pages (1 month ago)
 - [pascalinthecloud/FioDash](https://github.com/pascalinthecloud/FioDash) - Simple tool collecting fio results from multiple servers running on docker. (1 month ago)
 - [pascalinthecloud/.github](https://github.com/pascalinthecloud/.github) - Default community health files (SECURITY.md) for all public repos of pascalinthecloud. (1 month ago)
@@ -28,19 +28,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.26.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.26.0), today) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
+- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.10](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.10), today) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 - [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) ([v0.5.4](https://github.com/pascalinthecloud/terrastrata/releases/tag/v0.5.4), 1 day ago) - terrastrata is a lightweight self-hosted proxy that implements the Terraform Network Mirror Protocol. It fetches providers from the public registry on demand, caches them locally and in S3-compatible object storage, and serves subsequent requests entirely from cache — no repeated upstream calls, no internet dependency after first use.
 - [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) ([helm-paperless-s3-backup-0.6.0](https://github.com/pascalinthecloud/helm-paperless-s3-backup/releases/tag/helm-paperless-s3-backup-0.6.0), 1 day ago) - A Helm chart for automating Paperless NGX backups to a S3 bucket in Kubernetes.
 - [rustfs/console](https://github.com/rustfs/console) ([v0.1.44](https://github.com/rustfs/console/releases/tag/v0.1.44), 2 days ago) - A modern, responsive web management console for RustFS distributed file system, built with Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4 + shadcn/ui.
 - [fosrl/apple](https://github.com/fosrl/apple) ([mac-0.14.0](https://github.com/fosrl/apple/releases/tag/mac-0.14.0), 6 days ago) - Pangolin client for Apple devices
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.123.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.123.1), 1 week ago) - Terraform / OpenTofu Provider for Proxmox VE
-- [ovh/terraform-provider-ovh](https://github.com/ovh/terraform-provider-ovh) ([v2.25.0](https://github.com/ovh/terraform-provider-ovh/releases/tag/v2.25.0), 1 week ago) - 🚀 Terraform Provider for OVHcloud ☁️  - Manage your cloud infrastructure, domains, and services as code. Provision and configure OVHcloud resources with the power of Infrastructure as Code (IaC). Automate your entire OVHcloud stack effortlessly.
 - [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) ([v0.2.1](https://github.com/pascalinthecloud/terraform-module-cnpg-database/releases/tag/v0.2.1), 1 week ago) - Terraform module for declarative PostgreSQL cluster and database creation in CloudNative-PG with automatic user and secret management.
 - [vmware/terraform-provider-nsxt](https://github.com/vmware/terraform-provider-nsxt) ([v3.12.2](https://github.com/vmware/terraform-provider-nsxt/releases/tag/v3.12.2), 1 week ago) - Terraform Provider for VMware NSX
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) ([v0.65.0](https://github.com/ubiquiti-community/terraform-provider-unifi/releases/tag/v0.65.0), 3 weeks ago) - Terraform provider for Unifi :satellite:
-- [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) ([v1.0.9](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/releases/tag/v1.0.9), 1 month ago) - Terraform module to provision a Kubernetes cluster on Proxmox using Talos Linux. Automates node creation, Talos configuration, and integration with Proxmox, providing a secure and lightweight environment for homelabs or production use. Ideal for streamlined Kubernetes setup and management.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: controlplane-only config patches](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster/pull/110) on [pascalinthecloud/terraform-proxmox-talos-cluster](https://github.com/pascalinthecloud/terraform-proxmox-talos-cluster) (today)
 - [chore(release): v0.5.4](https://github.com/pascalinthecloud/terrastrata/pull/71) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [fix(ci): golangci-lint v2.15.0 for Go 1.27, patch vulnerable docs deps](https://github.com/pascalinthecloud/terrastrata/pull/70) on [pascalinthecloud/terrastrata](https://github.com/pascalinthecloud/terrastrata) (1 day ago)
 - [feat: optional Healthchecks ping (chart 0.6.0)](https://github.com/pascalinthecloud/helm-paperless-s3-backup/pull/12) on [pascalinthecloud/helm-paperless-s3-backup](https://github.com/pascalinthecloud/helm-paperless-s3-backup) (2 days ago)
@@ -50,7 +51,6 @@
 - [feat: optional image_name (spec.imageName)](https://github.com/pascalinthecloud/terraform-module-cnpg-database/pull/17) on [pascalinthecloud/terraform-module-cnpg-database](https://github.com/pascalinthecloud/terraform-module-cnpg-database) (2 weeks ago)
 - [Report whole Proxmox VE clusters](https://github.com/IainKay/ram-altman/pull/4) on [IainKay/ram-altman](https://github.com/IainKay/ram-altman) (2 weeks ago)
 - [chore(deps): update dependency satori to ^0.33.0 [security]](https://github.com/pascalinthecloud/sicherge.cloud/pull/8) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (3 weeks ago)
-- [chore: upgrade to astro 7](https://github.com/pascalinthecloud/sicherge.cloud/pull/7) on [pascalinthecloud/sicherge.cloud](https://github.com/pascalinthecloud/sicherge.cloud) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -63,7 +63,7 @@
 #### ⭐ Recent Stars
 
 - [teamspeak/teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for testing and feedback before the stable version launch. (4 days ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (4 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Cursor and more. (4 days ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (6 days ago)
 - [Brick-Force-Aurora/Brick-Force](https://github.com/Brick-Force-Aurora/Brick-Force) -  (1 week ago)
 - [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth) - A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, LOD streaming from a companion server (1 week ago)
